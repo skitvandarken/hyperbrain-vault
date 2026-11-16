@@ -1,28 +1,52 @@
-## [2026-11-16 14:34] Resumo do Ciclo
+## [2026-11-16 14:35] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
-- O deploy Angular/Firebase (branch mvp) do repositório principal falha de forma recorrente nas tentativas 4 e 5; exige intervenção humana para desbloquear o CI.
+- 10:27 [GitHub] Run failed — spaceallcorp/accms ⏎ 🚀 Secure Angular Deploy with Firebase, Attempt #4 - mvp (7f55961)
+- 10:30 [GitHub] Run failed — spaceallcorp/accms ⏎ 🚀 Secure Angular Deploy with Firebase, Attempt #5 - mvp (7f55961) _(atualização)_
+- 11:15 [GitHub] Run failed — spaceallcorp/accms ⏎ 🚀 Secure Angular Deploy with Firebase, Attempt #5 - mvp (7f55961) _(atualização)_
 
 ### Movimentos Financeiros & Pagamentos
 _(nada a assinalar)_
 
 ### Operacional & Negócio
-- Quatro pedidos de interligação privada (On-Premise↔Cloud e ponto-a-ponto em Angola) duplicados em Gmail/Thunderbird e reenviados às 11:15; aguardam proposta.
-- Marketing (Victor) confirma alinhamento Digital/Estratégia/Vertical; em Aprovações, Samuel questiona peças Go4AI.
-- José Kayesse (Redes Sociais): dois posts pós-evento AfroChamber publicados, mais fotos por vir; post SHILDS2Europe em desenvolvimento, pede especificações.
-- Tarefa pendente: preparar documentação de passaporte para SME; lembrete repetido às 11:15.
-- Snyk: um projeto aproxima-se do limite de testes; monitorizar consumo da ferramenta.
+- 10:27 [Gmail] Microsoft AI Cloud Partner Program — Meet the 2026 Microsoft Partner of the Year Award winners ⏎ Celebrate the partner achievements and impact shaping the next AI frontier. ⏎ Está a ter problemas com a visualização dest…
+- 10:27 [Gmail] Snyk — You're approaching the Snyk test limit for skitvandarken
+- 10:27 [Gmail] Silvia Domingos — [Solici…] Cantina - Silva ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Silva ⏎ Empresa: Cantina ⏎ E-mail Corporativo: domingossilo56@gmail.com ⏎ Telefone / WhatsA…
+- 10:27 [Gmail] Judilson Vieira — [Solici…] Achekgamer - judilson Vieira ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: judilson Vieira ⏎ Empresa: Achekgamer ⏎ E-mail Corporativo: juliobernadino2009…
+- 10:27 [Gmail] Amadeu Mateus — [Solici…] ACDA - Amadeu ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Amadeu ⏎ Empresa: ACDA ⏎ E-mail Corporativo: amadeualmeida@yahoo.com.br ⏎ Telefone / WhatsApp:…
+- 10:27 [Gmail] WiFi NOW — April 19-21 2027: WWC is back - with more wireless insights & more reasons to join! ⏎ Now covering Wi-Fi, UWB, Bluetooth, & emerging wireless tech - don't miss it. ⏎ Wi-Fi NOW Announcement ⏎ View this email i…
+- 10:27 [Gmail] Jumaragabriela Idalina — [Solici…] Conta própria - Gabriel mucanda ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Gabriel mucanda ⏎ Empresa: Conta própria ⏎ E-mail Corporativo: Gabri…
+- 10:27 [LinkedIn] Christina Jørgensen — Head of EMEA Marketing - Teradyne Robotics da empresa Universal Robots reagiu a uma publicação: Last night i watched a vintage documentary on Youtube from 1986 called "Ideas Unlimited". It tells th…
+- 10:27 [Tasks] Preparar documentos para o SME (Passaporte)
+- 10:27 [Teams] Alinhamento MKT - Digital & Estratégia - Vertical — Nsucami Victor: Estámos alinhados.
+- 10:27 [Teams] REDES SOCIAIS | Aprovações — Samuel Carvalho: já tinhas feito algum de Go4AI ?
+- 10:27 [Thunderbird] Jumaragabriela Idalina — [Solicitação de Proposta] Conta própria - Gabriel mucanda ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL Nome do Responsável: Gabriel mucanda Empresa: Conta própria E-mail Corporat…
+- 10:27 [Thunderbird] Judilson Vieira — [Solicitação de Proposta] Achekgamer - judilson Vieira ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL Nome do Responsável: judilson Vieira Empresa: Achekgamer E-mail Corporativo: juliober…
+- 10:27 [Thunderbird] Amadeu Mateus — [Solicitação de Proposta] ACDA - Amadeu ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL Nome do Responsável: Amadeu Empresa: ACDA E-mail Corporativo: amadeualmeida@yahoo.com.br Telefone / Wh…
+- 10:44 [Teams] REDES SOCIAIS | Aprovações — José Kayesse: AfroChamber já comunicamos dois posts de pós evento, vou dar seguimento para mais com as fotos disponibilizadas pela organização. _(atualização)_
+- 10:49 [Teams] REDES SOCIAIS | Aprovações — José Kayesse: Tenho em desenvolvimento post de Produto, SHILDS2Europe, tem algum outro específico? _(atualização)_
+- 11:15 [Gmail] Judilson Vieira — [Solici…] Achekgamer - judilson Vieira ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: judilson Vieira ⏎ Empresa: Achekgamer ⏎ E-mail Corporativo: juliobernadino2009… _(atualização)_
+- 11:15 [Gmail] Amadeu Mateus — [Solici…] ACDA - Amadeu ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Amadeu ⏎ Empresa: ACDA ⏎ E-mail Corporativo: amadeualmeida@yahoo.com.br ⏎ Telefone / WhatsApp:… _(atualização)_
+- 11:15 [Gmail] Jumaragabriela Idalina — [Solici…] Conta própria - Gabriel mucanda ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Gabriel mucanda ⏎ Empresa: Conta própria ⏎ E-mail Corporativo: Gabri… _(atualização)_
+- 11:15 [LinkedIn] Christina Jørgensen — Head of EMEA Marketing - Teradyne Robotics da empresa Universal Robots reagiu a uma publicação: Last night i watched a vintage documentary on Youtube from 1986 called "Ideas Unlimited". It tells th… _(atualização)_
+- 11:15 [Tasks] Preparar documentos para o SME (Passaporte) _(atualização)_
+- 11:15 [Teams] REDES SOCIAIS | Aprovações — José Kayesse: Tenho em desenvolvimento post de Produto, SHILDS2Europe, tem algum outro específico? _(atualização)_
+- 11:15 [Thunderbird] Amadeu Mateus — [Solicitação de Proposta] ACDA - Amadeu ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL Nome do Responsável: Amadeu Empresa: ACDA E-mail Corporativo: amadeualmeida@yahoo.com.br Telefone / Wh… _(atualização)_
+- 11:15 [Thunderbird] Jumaragabriela Idalina — [Solicitação de Proposta] Conta própria - Gabriel mucanda ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL Nome do Responsável: Gabriel mucanda Empresa: Conta própria E-mail Corporat… _(atualização)_
+- 11:15 [Thunderbird] Judilson Vieira — [Solicitação de Proposta] Achekgamer - judilson Vieira ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL Nome do Responsável: judilson Vieira Empresa: Achekgamer E-mail Corporativo: juliober… _(atualização)_
+- 13:45 [LinkedIn] Eugene Kaspersky publicou — * On the benefits of total distrust – or a farewell to corporate VPN * ⏎ Corporate VPN is a technology of great historical importance: it’s what first made remote work a normal part of workin…
+- 13:56 [Gmail] Wi-Fi NOW — Deep learning: Watch ALL this year's WWC Europe sessions - at your leisure! ⏎ Eighteen expert sessions. Watch any time, at your own pace. ⏎ WiFi World Congress Europe 2026 ⏎ View this email in your browser ⏎…
+- 14:18 [Gmail] AliExpress — ACABOU DE CHEGAR: novos itens com altas audiências ⏎ Não perca os produtos mais queridinhos do Ali ⏎ Recomendado pra você ⏎ 136.199,67 Kz ⏎ 203.181,50 Kz | -33% ⏎ 128.373,62 Kz ⏎ 227.109,06 Kz ⏎ . ⏎ 95.326,…
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 36 notificações — ex.: grupo de negócios com oferta de discos rígidos e divulgações musicais.
-- Gmail: 8 notificações (newsletters e promoções) — ex.: boletim WiFi NOW sobre Wi-Fi 8.
-- Instagram: 5 — ex.: novas curtidas em stories.
-- LinkedIn: 3 — ex.: artigo sobre os limites da VPN corporativa.
-- YouTube: 2 — ex.: lançamento de vídeo de animação.
-- Relógio: 2 — ex.: lembrete para desligar o alarme.
-- Thunderbird: 1 — ex.: newsletter WiFi NOW (duplicada do Gmail).
-- Fotos: 1 — ex.: sugestão de nova memória.
-- AngolanVPN: 1 — ex.: túnel VPN desligado.
-- Messenger: 1 — ex.: resposta a uma história.
-- Pinterest: 1 — ex.: sugestão de conteúdo personalizado.
-- Telefone: 1 — ex.: chamada não atendida.
+- WhatsApp Business: 36 notificação(ões) — ex.: SÓ BUSINESS 💷💸💵 (4703 mensagens) — ~ Adef Star Winner: 📷 Enviou uma foto
+- Instagram: 5 notificação(ões) — ex.: 2+ novas curtidas — No seu story
+- Gmail: 4 notificação(ões) — ex.: WiFi NOW — Knowledge Brief: Bluetooth Technology Guide 2026-2027 - download it here | More about enterprise c…
+- YouTube: 2 notificação(ões) — ex.: uncannyFrames — The Island is out now! Watch and enjoy! #animation #scarystories #disturbing #horror #fypシ #c…
+- Relógio: 2 notificação(ões) — ex.: Desligar o seu alarme previsto?
+- Fotos: 1 notificação(ões) — ex.: Junto e misturado — Nova memória para si
+- Thunderbird: 1 notificação(ões) — ex.: WiFi NOW — Knowledge Brief: Bluetooth Technology Guide 2026-2027 - download it here | More about enterprise c…
+- AngolanVPN: 1 notificação(ões) — ex.: Não ligado
+- Messenger: 1 notificação(ões) — ex.: Edvânio Peinho Ribeiro — Edvânio respondeu à tua história: A morte mi atrai como atrai a morfina 🤟
+- Pinterest: 1 notificação(ões) — ex.: É a tua cara, Fluxodigital
+- Telefone: 1 notificação(ões) — ex.: Chamada não atendida — Mena Africell
