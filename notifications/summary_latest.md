@@ -1,28 +1,38 @@
-## [2026-11-18 13:35] Resumo do Ciclo
+## [2026-11-18 13:42] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
-- Deploy do accms (Angular/Firebase) falhou nas tentativas #4 e #5 com o mesmo commit — release bloqueado; exige investigação.
-- Snyk aproxima-se do limite de testes em skitvandarken — monitorizar uso para não interromper os scans.
-- VPN corporativa (AngolanVPN) apareceu desligada às 11:15 — bloqueio de acesso remoto; requer religação.
+- Atualização do AngolanVPN rejeitada na Play Console: release bloqueado até correção e novo envio.
+- Sincronização do Samsung Cloud falhou por ligação de rede — verificar conectividade.
+- Prazos de hoje a decidir: bolsa para jovens líderes (10:00, alerta 24h) e acelerador da União Africana (09:00).
+- Registo de ponto em falta: alarme das 08:10 perdido e alarme das 11:00 dispensado — regularizar presença.
+- Tarefa transitada de ontem por confirmar: horário e rota do posto SME na Marginal.
+- Alerta de segurança Java (CVEs, patch da Oracle) na comunidade Debian — avaliar exposição.
 
 ### Movimentos Financeiros & Pagamentos
-_(nada a assinalar)_
+- Multicaixa: três transferências concluídas com sucesso — 1.000 Kz entre cartões, 7.000 Kz express e 600 Kz bancária (total 8.600 Kz); origem/destino não detalhados.
+- Multicaixa: três compras registadas sem montante, origem/destino ou estado divulgado.
+- Item etiquetado [FINANCEIRO] no WhatsApp é anúncio de arrendamento (65.000 Kz, taxa de visita 3.000 Kz), não transação.
 
 ### Operacional & Negócio
-- Propostas SPACEALL (interligação privada): 4 pedidos, duplicados entre Gmail e Thunderbird — 3 Escritório↔Cloud e 1 ponto-a-ponto em Angola; setores Comércio/Retalho e Provedor.
-- Marketing/Redes (Teams): alinhamento MKT Digital/Estratégia (Victor); dúvida Go4AI (Samuel); posts AfroChamber e SHILDS2Europe em curso (José Kayesse).
-- Tarefas SME: preparar documentos de passaporte e confirmar horário e rota do posto na Marginal.
+- Propostas SPACEALL: 6 pedidos de interligação privada (5 únicos) via formulário AngolanVPN — maioria Escritório↔Cloud; setores petróleo/gás, comércio e provedores.
+- Parceria VSAT e pedido de proposta técnica gratuita (duplicado) de empresa de TIC angolana — aguardar resposta comercial.
+- Suporte AngolanVPN: pedido recebido com dado de acesso efémero descartado.
+- Reunião semanal de marketing (10:00–11:00): convite de José K., alinhamento de Samuel e sessão iniciada no Teams.
+- SME: pedido de passaporte registado; emissão na Marginal aguarda aviso de disponibilidade.
+- Chamada não atendida às 11:02 seguida de anexo no Messenger — follow-up pendente.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 41 notificações — ex.: fotos e vídeos em grupos, divulgação musical e catering.
-- Gmail: 9 notificações — ex.: newsletters WiFi NOW e promoções AliExpress.
-- Instagram: 6 notificações — ex.: curtidas em stories e pedido de mensagem.
-- Relógio: 4 notificações — ex.: pedido para desligar alarme agendado.
-- YouTube: 4 notificações — ex.: vídeos de animação/horror e visualizer musical.
-- LinkedIn: 3 notificações — ex.: reação sobre automação e artigo sobre VPN corporativa.
-- Thunderbird: 1 notificação — ex.: newsletter WiFi NOW sobre guia Bluetooth.
-- Fotos: 1 notificação — ex.: nova memória partilhada.
-- Messenger: 1 notificação — ex.: resposta a uma história.
-- Pinterest: 1 notificação — ex.: sugestão visual personalizada.
-- Telefone: 1 notificação — ex.: chamada não atendida.
+- WhatsApp Business: 28 notificações — ex.: pedidos de catering, anúncios de arrendamento e partilhas em grupos de música.
+- Gmail: 10 notificações — ex.: newsletters Wi-Fi NOW, eventos Microsoft e conteúdos de formação de parceiros.
+- LinkedIn: 6 notificações — ex.: reações a publicações, convite de jogo e visualizações do perfil.
+- YouTube: 5 notificações — ex.: clipes musicais, notícia financeira e vídeos curtos.
+- CapCut: 3 notificações — ex.: sugestões diárias de edição com IA.
+- Fotos: 3 notificações — ex.: memórias partilhadas e captura pela câmara.
+- Messenger: 3 notificações — ex.: respostas a histórias.
+- Agenda: 2 notificações — ex.: evento cultural no CCP Luanda.
+- Instagram: 2 notificações — ex.: curtidas em story e álbum de fotos.
+- SimpleX: 2 notificações — ex.: mensagens em grupos sobre privacidade e Linux.
+- Discord: 1 notificação — ex.: iniciativa Debian para hardware de jogos.
+- Pinterest: 1 notificação — ex.: sugestão de calçado.
+- Outlook: 1 notificação — ex.: pedido de código de autenticação (credencial não reproduzida).
