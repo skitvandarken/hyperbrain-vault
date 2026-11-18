@@ -1,38 +1,38 @@
-## [2026-11-18 13:42] Resumo do Ciclo
+## [2026-11-18 13:47] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
-- Atualização do AngolanVPN rejeitada na Play Console: release bloqueado até correção e novo envio.
-- Sincronização do Samsung Cloud falhou por ligação de rede — verificar conectividade.
-- Prazos de hoje a decidir: bolsa para jovens líderes (10:00, alerta 24h) e acelerador da União Africana (09:00).
-- Registo de ponto em falta: alarme das 08:10 perdido e alarme das 11:00 dispensado — regularizar presença.
-- Tarefa transitada de ontem por confirmar: horário e rota do posto SME na Marginal.
-- Alerta de segurança Java (CVEs, patch da Oracle) na comunidade Debian — avaliar exposição.
+- Update do AngolanVPN rejeitado na Play Console — corrigir e reenviar para desbloquear o release.
+- Samsung Cloud sem sincronizar por falha de rede — verificar ligação.
+- Dois prazos de candidatura hoje: bolsa de liderança (10:00) e acelerador da UA (09:00).
+- Registo de ponto por regularizar: alarme das 08:10 perdido e o das 11:00 dispensado.
+- Herdada de ontem: confirmar horário e rota do posto SME na Marginal.
+- CVEs Java e patch da Oracle sinalizados no Debian — avaliar exposição.
 
 ### Movimentos Financeiros & Pagamentos
-- Multicaixa: três transferências concluídas com sucesso — 1.000 Kz entre cartões, 7.000 Kz express e 600 Kz bancária (total 8.600 Kz); origem/destino não detalhados.
-- Multicaixa: três compras registadas sem montante, origem/destino ou estado divulgado.
-- Item etiquetado [FINANCEIRO] no WhatsApp é anúncio de arrendamento (65.000 Kz, taxa de visita 3.000 Kz), não transação.
+- Multicaixa: três transferências liquidadas — 1.000 Kz (cartão a cartão), 7.000 Kz (express) e 600 Kz (bancária), total 8.600 Kz; destino não indicado.
+- Multicaixa: três compras sem montante, moeda, origem/destino ou estado divulgado.
+- WhatsApp [FINANCEIRO]: anúncio de arrendamento (65.000 Kz, pagamento semestral; visita 3.000 Kz) — não é transação.
 
 ### Operacional & Negócio
-- Propostas SPACEALL: 6 pedidos de interligação privada (5 únicos) via formulário AngolanVPN — maioria Escritório↔Cloud; setores petróleo/gás, comércio e provedores.
-- Parceria VSAT e pedido de proposta técnica gratuita (duplicado) de empresa de TIC angolana — aguardar resposta comercial.
-- Suporte AngolanVPN: pedido recebido com dado de acesso efémero descartado.
-- Reunião semanal de marketing (10:00–11:00): convite de José K., alinhamento de Samuel e sessão iniciada no Teams.
-- SME: pedido de passaporte registado; emissão na Marginal aguarda aviso de disponibilidade.
-- Chamada não atendida às 11:02 seguida de anexo no Messenger — follow-up pendente.
+- Propostas SPACEALL: 5 pedidos únicos de interligação privada via formulário AngolanVPN; maioria Escritório↔Cloud, setores petróleo/gás, comércio/retalho e provedores — com duplicações.
+- Parceria de revenda VSAT e proposta técnica gratuita de empresa de TIC angolana — ambas duplicadas, aguardar retorno comercial.
+- Pedido de suporte AngolanVPN com dado de acesso efémero já descartado.
+- Weekly de marketing (10:00–11:00): convite de José K., alinhamento de Samuel e sessão aberta no Teams.
+- SME: registo de passaporte confirmado; emissão na Marginal depende de aviso de disponibilidade.
+- Follow-up em aberto: chamada perdida seguida de anexo no Messenger.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 28 notificações — ex.: pedidos de catering, anúncios de arrendamento e partilhas em grupos de música.
-- Gmail: 10 notificações — ex.: newsletters Wi-Fi NOW, eventos Microsoft e conteúdos de formação de parceiros.
-- LinkedIn: 6 notificações — ex.: reações a publicações, convite de jogo e visualizações do perfil.
-- YouTube: 5 notificações — ex.: clipes musicais, notícia financeira e vídeos curtos.
-- CapCut: 3 notificações — ex.: sugestões diárias de edição com IA.
-- Fotos: 3 notificações — ex.: memórias partilhadas e captura pela câmara.
-- Messenger: 3 notificações — ex.: respostas a histórias.
-- Agenda: 2 notificações — ex.: evento cultural no CCP Luanda.
-- Instagram: 2 notificações — ex.: curtidas em story e álbum de fotos.
-- SimpleX: 2 notificações — ex.: mensagens em grupos sobre privacidade e Linux.
-- Discord: 1 notificação — ex.: iniciativa Debian para hardware de jogos.
+- WhatsApp Business: 29 notificações — ex.: encerramento de pedidos de catering e partilhas em grupos.
+- Gmail: 10 notificações — ex.: newsletters Wi-Fi NOW e comunicações Microsoft sobre benefícios e prémios de parceiros.
+- LinkedIn: 6 notificações — ex.: reações a publicações, menção em comentário e visualizações do perfil.
+- YouTube: 5 notificações — ex.: vídeos musicais e notícia de mercado.
+- CapCut: 3 notificações — ex.: promoções de edição com IA e seleção diária.
+- Fotos: 3 notificações — ex.: memórias partilhadas e foto captada pela câmara.
+- Messenger: 3 notificações — ex.: respostas de contactos a stories.
+- Agenda: 2 notificações — ex.: Baile de Verão no centro cultural em Luanda.
+- Instagram: 2 notificações — ex.: novas curtidas no story e álbum partilhado.
+- SimpleX: 2 notificações — ex.: conversas em canais de privacidade e Linux.
+- Discord: 1 notificação — ex.: testes Debian em hardware de jogos.
 - Pinterest: 1 notificação — ex.: sugestão de calçado.
-- Outlook: 1 notificação — ex.: pedido de código de autenticação (credencial não reproduzida).
+- Outlook: 1 notificação — ex.: autenticação Adobe (dado efémero descartado).
