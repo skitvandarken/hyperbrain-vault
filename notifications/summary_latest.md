@@ -1,39 +1,41 @@
-## [2026-11-18 14:17] Resumo do Ciclo
+## [2026-11-18 14:23] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
-- Play Console rejeitou a atualização do AngolanVPN — publicação bloqueada; corrigir a build e reenviar.
-- Prazos finais a tratar hoje: bolsa de jovens líderes (10:00) e acelerador da União Africana (09:00, já passado).
-- Tarefa de ontem em aberto: confirmar horário e rota do posto SME na Marginal.
-- Registo de ponto: alarme das 08:10 perdido (Office Time) — verificar regularização da presença.
+- Atualização do AngolanVPN recusada na Play Console — publicação suspensa; corrigir a build e submeter de novo.
+- Prazo do acelerador da União Africana (09:00) já vencido e bolsa de jovens líderes a vencer às 10:00 — decidir candidaturas.
+- Pendente de ontem: confirmar horário e percurso para o posto do SME na Marginal.
+- Registo de ponto em risco: alarme das 08:10 (Office Time) não disparou — regularizar a entrada.
 
 ### Movimentos Financeiros & Pagamentos
-- Multicaixa: 3 compras (09:28, 09:32, 09:36) processadas, sem montante nem destinatário discriminados.
-- Multicaixa: transferência entre cartões de 1.000,00 Kz concluída; destino não indicado.
-- Multicaixa: Transferência Express de 7.000,00 Kz concluída; destino não indicado.
-- Multicaixa: transferência bancária de 600,00 Kz concluída; destino não indicado.
-- Grupo comercial: anúncio de arrendamento T1 a 65.000 Kz/semestre e 3.000 Kz de visita — sem transação.
+- Multicaixa: três compras (09:28, 09:32, 09:36) sem valor ou destinatário visíveis; todas processadas.
+- Transferência entre cartões: 1.000,00 Kz, origem/destino não discriminados, concluída com sucesso.
+- Transferência Express: 7.000,00 Kz, destino omisso, efetuada com sucesso.
+- Transferência bancária: 600,00 Kz, destino omisso, efetuada com sucesso.
+- Somatório das transferências: 8.600,00 Kz em kwanzas, origem Multicaixa, todas bem-sucedidas.
+- Grupo comercial [FINANCEIRO]: anúncio de T1 a 65.000 Kz/semestre e 3.000 Kz de visita — sem transação.
 
 ### Operacional & Negócio
-- Pedidos SPACEALL de interligação privada via app: 5 únicos e 1 duplicado; petróleo/gás, educação, comércio e serviços.
-- Topologias pedidas: on-premise↔cloud, Angola↔estrangeiro e Angola↔Angola; propostas aguardam análise.
-- Parceria de revenda VSAT proposta por TIC angolana, com pedido técnico duplicado — aguardar decisão.
-- Reunião semanal Marketing & TelCables Nigeria (10:00–11:00, Teams): convite interno e sessão iniciada.
-- Convite Teams de colega para outra reunião — confirmar participação.
+- Propostas SPACEALL de interligação privada: 5 pedidos únicos e 1 repetição; petróleo/gás, educação, comércio/retalho e serviços.
+- Topologias requisitadas: on-premise↔cloud, Angola↔estrangeiro e Angola↔Angola; propostas aguardam análise.
+- Parceria de revenda VSAT oferecida por TIC angolana; pedido técnico enviado duas vezes — aguardar decisão.
+- Reunião semanal Marketing & TelCables Nigeria (10:00–11:00, Teams): convite, chat e sessão iniciada.
+- Convite de colega via Teams para reunião adicional — confirmar presença.
 - SME: pedido de passaporte registado; emissão pendente na Marginal.
+- Pedido de suporte AngolanVPN recebido por email, sem desfecho registado.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 29 — ex.: grupo de catering a encerrar pedidos às 11h.
-- Gmail: 11 — ex.: newsletters Wi-Fi NOW e comunicados Microsoft (Ignite/prémios).
-- LinkedIn: 6 — ex.: reações a conteúdos do setor e visualização de perfil.
-- YouTube: 5 — ex.: clipes musicais e notícia de finanças.
+- WhatsApp Business: 29 — ex.: grupo de catering a encerrar pedidos e a falar de menus.
+- Gmail: 10 — ex.: newsletters Wi-Fi NOW e comunicados Microsoft sobre Ignite e prémios.
+- LinkedIn: 6 — ex.: reações a conteúdos do setor e uma visualização de perfil.
+- YouTube: 5 — ex.: clipes musicais e uma notícia financeira.
 - Messenger: 4 — ex.: respostas a stories e envio de anexo.
 - CapCut: 3 — ex.: sugestões diárias de edição com IA.
-- Fotos: 3 — ex.: atualizações de álbum e foto da câmara.
-- Agenda: 2 — ex.: lembrete do Baile de Verão (Camões).
-- Discord: 2 — ex.: aviso de CVE Java e novidades da comunidade Debian.
+- Fotos: 3 — ex.: atualizações de álbum e fotografia da câmara.
+- Agenda: 2 — ex.: lembrete do Baile de Verão no Camões.
+- Discord: 2 — ex.: alerta de CVEs Java e novidades da comunidade Debian.
 - Instagram: 2 — ex.: curtidas em story e novas fotos.
-- SimpleX: 2 — ex.: mensagens em grupos de tecnologia.
+- SimpleX: 2 — ex.: conversas em grupos de tecnologia.
 - Outlook: 1 — código de autenticação (credencial efémera descartada).
 - Pinterest: 1 — sugestão de calçado.
 - Relógio: 1 — pedido para desativar alarme.
