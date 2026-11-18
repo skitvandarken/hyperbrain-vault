@@ -1,43 +1,43 @@
-## [2026-11-18 15:38] Resumo do Ciclo
+## [2026-11-18 15:44] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
-- Play Console rejeitou a atualização do AngolanVPN - IP Angolano; corrigir o pacote e reenviar para revisão.
-- Prazo das 09:00 do Acelerador AUDA-NEPAD 2027 (União Africana) já passou — definir se se mantém a candidatura.
-- Alerta de 24h da Bolsa Sir Cyril Taylor 2027 esgotado às 10:00 — avaliar se vale a submissão.
-- Sincronização do Samsung Cloud falhou (rede) — confirmar conectividade e reenviar dados.
-- Alarme das 08:10 (Office Time, picar ponto) perdido — regularizar a marcação.
-- Tarefa de ontem por fechar: confirmar horário e rota para o posto do SME na Marginal.
+- Play Console recusou a atualização do AngolanVPN – IP Angolano; corrigir o pacote e submeter de novo a revisão.
+- Prazo das 09:00 do Acelerador AUDA-NEPAD 2027 expirado — decidir se a candidatura segue.
+- Alerta de 24h da Bolsa Sir Cyril Taylor 2027 terminou às 10:00 — avaliar submissão.
+- Samsung Cloud não sincronizou por falha de rede — verificar ligação e reenviar dados.
+- Alarme das 08:10 para picar ponto não tocou — regularizar a marcação no sistema.
+- Pendência de ontem: definir horário e rota para o posto do SME na Marginal.
 
 ### Movimentos Financeiros & Pagamentos
-- Três compras Multicaixa (09:28, 09:32, 09:36) concluídas; sem montante, moeda ou comerciante visíveis.
-- Transferência entre cartões: 1.000,00 Kz concluída; origem e destino não identificados.
-- Transferência Express: 7.000,00 Kz enviados com sucesso; destinatário não identificado.
-- Transferência bancária: 600,00 Kz efetuada; beneficiário não visível.
-- Total de transferências: 8.600,00 Kz (kwanza); compras excluídas por falta de montante.
-- Anúncio de arrendamento com tag financeira: T1 a 65.000 Kz/semestre e visita de 3.000 Kz, comissão a cargo do interessado — só divulgação.
+- Três compras Multicaixa (09:28/09:32/09:36) concluídas; valores e comerciantes não aparecem no log.
+- Entre cartões: 1.000,00 Kz concluídos, sem identificação das pontas envolvidas.
+- Express: 7.000,00 Kz enviados com sucesso, destinatário não visível no registo.
+- Bancária: 600,00 Kz efetuados, beneficiário não identificado.
+- Total transferido: 8.600,00 Kz (kwanza); compras sem valor ficam de fora do total.
+- Tag financeira num anúncio de T1 (65.000 Kz/semestre, visita 3.000 Kz) — divulgação, não transação.
 
 ### Operacional & Negócio
-- Pedidos SPACEALL de interligação privada: cinco prospectos (petróleo/gás, ensino, retalho, serviços); topologias on-premise↔cloud, Angola↔estrangeiro e interna — por orçamentar.
-- Repetições detetadas: um pedido de petróleo/gás e o pedido técnico da firma de TIC chegaram duas vezes.
-- Parceria VSAT: director de operações de firma angolana de TIC propõe revenda de satélite e pede proposta técnica gratuita — avaliar.
-- Suporte AngolanVPN: mensagem continha só algarismos, sem pedido útil — solicitar detalhes.
-- Reunião semanal de marketing com parceiro nigeriano (10–11h, Teams): convite de colega, fala e sessão aberta.
-- SME: pedido registado; passaporte em emissão para levantamento na Marginal — acompanhar.
-- Por devolver: chamada não atendida e anexo enviado via mensageiro.
+- SPACEALL: 5 pedidos de interligação privada (petróleo/gás, ensino, retalho, serviços, conta própria); topologias on-premise↔cloud, Angola↔estrangeiro e interna — a orçamentar.
+- Duplicações: pedido do ramo petróleo/gás e proposta técnica da firma de TIC repetidos.
+- Parceria VSAT: responsável de operações de TIC angolana oferece revenda de satélite e solicita proposta técnica gratuita — a avaliar.
+- Semanal de marketing com parceiro nigeriano (10–11h, Teams): convite, intervenção de colega e sessão iniciada.
+- SME: registo confirmado; passaporte a caminho da emissão para levantamento na Marginal — acompanhar.
+- Suporte AngolanVPN: mensagem reduzida a dígitos, sem pedido aproveitável — pedir esclarecimento.
+- Por devolver: chamada não atendida às 11:02 e anexo recebido via mensageiro às 11:18.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 29 — ex.: grupos de catering (pedidos encerrados), anúncios de quartos e música.
-- Gmail: 10 — ex.: boletins Wi-Fi NOW e comunicados Microsoft (benefícios, prémios, eventos).
-- LinkedIn: 6 — ex.: reações em publicações do setor, menção, convite e visitas ao perfil.
-- YouTube: 5 — ex.: clipes musicais e uma notícia de mercado.
-- CapCut: 3 — ex.: sugestões de edição com IA e seleção diária.
-- Fotos: 3 — ex.: atualizações de álbuns e foto da câmara.
-- Messenger: 3 — ex.: respostas a stories.
-- Agenda: 2 — ex.: Baile de Verão no centro cultural de Luanda (09:30).
-- Discord: 2 — ex.: alerta de CVEs em Java e teste de Debian em gaming.
-- Instagram: 2 — ex.: curtidas em story e fotos partilhadas.
-- SimpleX: 2 — ex.: conversas em grupos de tecnologia.
-- Outlook: 1 — ex.: código de autenticação (valor omitido).
-- Pinterest: 1 — ex.: sugestão de calçado.
-- Relógio: 1 — ex.: lembrete para desligar alarme.
+- WhatsApp Business: 29 — ex.: grupos de catering (pedidos encerrados), anúncios de quartos e partilhas musicais.
+- Gmail: 10 — ex.: boletins Wi-Fi NOW e comunicados Microsoft (benefícios, prémios, formação).
+- LinkedIn: 6 — ex.: reações e visitas ao perfil, menção e convite.
+- YouTube: 5 — ex.: videoclipes e notícia de mercado.
+- CapCut: 3 — ex.: recomendações de edição com IA e seleção do dia.
+- Fotos: 3 — ex.: atualizações de álbum e captura da câmara.
+- Messenger: 3 — ex.: respostas a histórias.
+- Agenda: 2 — ex.: Baile de Verão no centro cultural de Luanda.
+- Discord: 2 — ex.: aviso de CVEs Java e Debian em hardware de jogo.
+- Instagram: 2 — ex.: curtidas em história e fotos partilhadas.
+- SimpleX: 2 — ex.: mensagens em grupos técnicos.
+- Outlook: 1 — ex.: solicitação de código de autenticação (valor omitido).
+- Pinterest: 1 — ex.: sugestão de calçado (ténis).
+- Relógio: 1 — ex.: lembrete para desativar alarme.
