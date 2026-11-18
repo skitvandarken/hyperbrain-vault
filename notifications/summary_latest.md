@@ -1,45 +1,43 @@
-## [2026-11-18 17:00] Resumo do Ciclo
+## [2026-11-18 17:07] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
-- Play Console recusou a nova versão da AngolanVPN; investigar a rejeição e submeter de novo.
-- Sincronização do Samsung Cloud falhou por rede; confirmar conectividade e tentar outra vez.
-- Marcação das 08:10 (picar ponto) não registada; corrigir o registo de presença.
-- Candidatura ao Acelerador AUDA-NEPAD 2027 fechou às 09:00; decidir se avança.
-- Bolsa Sir Cyril Taylor 2027 termina às 10:00 (aviso 24h); deliberar a submissão.
-- CVEs em Java divulgados no Debian com patch da Oracle; medir risco e aplicar atualização.
-- Pendência de ontem: confirmar horário e rota do posto SME na Marginal.
+- Atualização da AngolanVPN rejeitada na Play Console; apurar o motivo e submeter de novo.
+- Sincronização do Samsung Cloud falhou por falta de rede; verificar ligação e repetir.
+- Alarme das 08:10 para picar ponto perdido; regularizar o registo de presença.
+- Prazo do Acelerador AUDA-NEPAD 2027 encerrado às 09:00; decidir se há margem de atuação.
+- Bolsa Sir Cyril Taylor 2027 vence às 10:00 (aviso 24h); deliberar a candidatura.
+- CVEs graves em Java sinalizadas no canal Debian; avaliar exposição e aplicar patch da Oracle.
 
 ### Movimentos Financeiros & Pagamentos
-- Multicaixa: 3 compras às 09:28/09:32/09:36, sem valor, moeda, contraparte ou estado detalhados.
-- Entre cartões: 1.000,00 Kz, sucesso; origem e destino não assinalados.
-- Transferência Express: 7.000,00 Kz, efetuada; sem intervenientes indicados.
-- Transferência bancária: 600,00 Kz, efetuada; destinatário desconhecido.
-- Soma das transferências: 8.600,00 Kz, todas com sucesso e sem contrapartes identificadas.
-- Anúncio imobiliário no WhatsApp Business [FINANCEIRO]: T1 a 65.000 Kz/semestre, visita 3.000 Kz; sem liquidação.
+- Multicaixa: 3 compras (09:28, 09:32, 09:36) sem valor, moeda, contraparte ou estado discriminados.
+- Transferência entre cartões: 1.000,00 Kz, concluída com sucesso; origem e destino não indicados.
+- Transferência Express: 7.000,00 Kz, efetuada com sucesso; intervenientes não assinalados.
+- Transferência bancária: 600,00 Kz, efetuada com sucesso; destinatário não identificado.
+- Total de transferências: 8.600,00 Kz, todas bem-sucedidas e sem contrapartes conhecidas.
+- WhatsApp Business [FINANCEIRO]: 2 anúncios de arrendamento — T1 a 65.000 Kz/semestre (visita 3.000 Kz) e quarto a 30.000 Kz/semestre (deslocação 4.000 Kz); sem pagamento.
 
 ### Operacional & Negócio
-- SPACEALL recebeu 5 solicitações de interligação privada (6 notificações, uma repetida) por formulário e Gmail.
-- Topologias pedidas: on-premise↔nuvem, Angola↔estrangeiro e ligação interna; ramos petróleo/gás, retalho e serviços.
-- Identificações e contactos dos requerentes redigidos; nada a citar nominalmente.
-- Proposta de revenda VSAT: empresa de TIC em Angola pede proposta técnica gratuita; aviso duplicado em dois canais.
-- Pedido de suporte AngolanVPN veio só com dígitos; solicitar detalhes ao remetente.
-- Reunião semanal de marketing com parceiro nigeriano (10–11h, Teams): convite, arranque da sessão e falas de participantes.
-- SME: registo confirmado e documento pronto para emissão no posto da Marginal; monitorizar entrega.
-- A retomar: chamada perdida e ficheiro enviado por mensageiro; devolver contacto ao remetente.
+- SPACEALL: 5 pedidos de interligação privada (formulário/Gmail, com duplicados); topologias on-prem↔nuvem, Angola↔estrangeiro e interna; setores petróleo/gás, retalho e serviços.
+- Parceria VSAT: empresa de TIC angolana pede proposta técnica gratuita para revenda de conectividade por satélite; aviso duplicado em dois canais.
+- Suporte AngolanVPN: pedido chegou só com dígitos; solicitar ao remetente a descrição do problema.
+- Reunião semanal de Marketing com parceiro nigeriano (10–11h, Teams): convite, arranque da sessão e intervenções de participantes.
+- SME: pedido registado com sucesso; documento pronto para emissão no posto da Marginal — acompanhar entrega.
+- Tarefa transportada de ontem: confirmar horário e rota do posto SME na Marginal.
+- A retomar: chamada perdida às 11:02 e anexo via mensageiro às 11:18; devolver contacto.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 29 — ex.: circulares de catering sobre pedidos e ementas, partilhas musicais e anúncios de arrendamento.
-- Gmail: 10 — ex.: boletins Wi-Fi NOW sobre WWC/Bluetooth/Wi-Fi 8 e e-mails Microsoft de formação e benefícios.
-- LinkedIn: 6 — ex.: reações de técnicos de operadora, uma visita ao perfil e menções a prémios africanos.
-- YouTube: 5 — ex.: vídeos de rap/boombap e notícia sobre a Nvidia.
+- WhatsApp Business: 28 — ex.: circulares de catering sobre pedidos e ementas, partilhas musicais e mensagens de grupos.
+- Gmail: 10 — ex.: boletins de redes sem fios e congressos, e e-mails de formação e benefícios de parceiros.
+- LinkedIn: 6 — ex.: reações de técnicos de operadora, visita ao perfil e convite de grupo.
+- YouTube: 5 — ex.: vídeos de rap/boombap e notícia do setor tecnológico.
 - CapCut: 3 — ex.: recomendações de edição com IA e seleção diária de vídeos.
 - Fotos: 3 — ex.: atualizações na galeria e imagem registada pela câmara.
-- Messenger: 3 — ex.: respostas a estados, com emojis e cumprimentos.
+- Messenger: 3 — ex.: respostas a estados com emojis e cumprimentos.
 - Agenda: 2 — ex.: baile de verão num centro cultural português.
 - Instagram: 2 — ex.: curtidas em stories e álbum de fotos.
 - SimpleX: 2 — ex.: debates em grupo sobre segurança e Linux.
-- Discord: 1 — ex.: projeto de testar Debian em hardware de jogo.
-- Outlook: 1 — ex.: código de acesso de serviço externo, descartado.
+- Discord: 1 — ex.: iniciativa de testar Debian em hardware de jogo.
+- Outlook: 1 — ex.: código de autenticação de serviço externo, descartado.
 - Pinterest: 1 — ex.: sugestão de tênis.
 - Relógio: 1 — ex.: aviso para desativar o alarme.
