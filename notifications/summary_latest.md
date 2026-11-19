@@ -1,40 +1,39 @@
-## [2026-11-19 15:46] Resumo do Ciclo
+## [2026-11-19 15:59] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
-- Bolsa Sir Cyril Taylor 2027 — prazo final 10:00 (Alerta 24h); exige decisão/registo.
-- Acelerador AUDA-NEPAD Home Grown Solutions 2027 — prazo final 09:00 (Agenda e Calendário); exige oferta ou análise.
-- AngovanVPN — atualização rejeitada no Play Console; exige intervenção antes do novo deploy.
-- Samsung Cloud — falha ao sincronizar dados; verificar rede/ligação.
-- Residência Artística — Baile de Verão (Camões – CCP Luanda), 09:30; confirmar presença.
+- Bolsa Sir Cyril Taylor 2027 — prazo final às 10:00; exige decisão e registo.
+- Acelerador AUDA-NEPAD Home Grown Solutions 2027 — prazo final às 09:00; exige oferta ou análise.
+- AngovanVPN — atualização no Play Console rejeitada; intervenção antes do próximo deploy.
+- Samsung Cloud — falha ao sincronizar dados; verificar ligação de rede e tentar novamente.
+- Residência Artística — Baile de Verão (Camões – CCP Luanda) a partir de 09:30; confirmar presença.
+- Relógio — alarme perdido (Office Time); verificar funcionamento/suprimento.
+- SME Marginal — confirmar horário e rota do posto; tarefa pendente desde ontem.
+- Chamada não atendida — Helio Novo; retelefonar.
 
 ### Movimentos Financeiros & Pagamentos
-- Transferências Multicaixa: 1.000,00 Kz, 7.000,00 Kz e 600,00 Kz efetuadas com sucesso — origem/destino em cartões redigidos.
-- Compras: 3 notificação(ões) sem montante registado — detalhar na origem.
-- Arrenda-se casa TIPOLOGIA T1 — taxa de visita 3.000 Kz; preço 65 mil negociável, pagamento semestral.
+- Transferências (Multicaixa): 1.000,00 Kz + 7.000,00 Kz + 600,00 Kz — efetuadas com sucesso (cartões).
+- Compras: 3 notificações — sem montante registado; detalhar na origem.
 
 ### Operacional & Negócio
-- SpaceAll: Pedidos — Sonangol (Adão Borges), ACDA (Amadeu Mateus), conta própria (Gabriel mucanda), Achekgamer (Judilson Vieira). CAJÚ — revenda autorizada de VSAT.
-- Reuniões MKT & TelCables Nigeria — Weekly Meeting (Outlook 10:00–11:00; Teams ativo); participação agendada por José K.
-- Tarefas — Confirmar SME Marginal; casa espacial, Ave. 21 de Janeiro (30 mil Kwanzas, WC privado).
-- LinkedIn — Aldair António (UX/UI, Angola Cables): reage à Gestão de Projectos/UX Research.
-- LinkedIn — Dionísio Hamuyela Dala (Pricing Technician, Angola Cables): Africa Tech Festival (6 finalistas).
-- LinkedIn — José Sandele (Core Engineering, Angola Cables): Africa Business Awards 2026 (25/11).
-- GL Services - Catering — pedidos via WhatsApp (3.550+ mensagens): Gomes Leite Service Lda, Fábio Amaral, Edvadol DSI.
+- Reuniões: Weekly Meeting MKT & TelCables Nigeria — Outlook 10:00–11:00, reunião ativa no Teams; Samuel Carvalho ativo; participação por José K.
+- Propostas: SpaceAll — revenda autorizada de VSAT (parceria CAJÚ); pedidos: Adão Borges (Sonangol), Amadeu Mateus (ACDA), Gabriel mucanda, Judilson (Achekgamer).
+- Arrenda TIPOLOGIA T1 — 65 mil Kz negociável, taxa de visita 3.000 Kz, pagamento semestral (Adef Star Winner).
+- Arrenda Quarto Espaçoso — 30 mil Kz negociável, deslocação 4.000 Kz, WC privado (Adef Star Winner).
+- GL Services - Catering — pedidos via WhatsApp (11 notificações: GL1, GL2, Fábio, Edvadol DSI, Dorcas; fechamento de pedidos).
+- LinkedIn — Angola Cables: Aldair António (UX/UI); Dionísio Hamuyela Dala (Pricing Tech — Africa Tech Festival); José Sandele (Core Eng — Africa Business Awards 25/11).
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 20 notificação(ões) — ex.: oferta de iPhone 18 Pro Max via link curto.
-- Gmail: 16 notificação(ões) — ex.: Wi-Fi NOW — Extreme: agentic AI Ops guarda >1.000h de suporte.
-- YouTube: 5 notificação(ões) — ex.: Nvidia will not be reinstating Jensen Huang as CEO.
-- LinkedIn: 3 notificação(ões) — ex.: Manoel Mauricio da Costa Filho mencionado; 1 visualização de perfil.
-- Teams: 3 notificação(ões) — ex.: José K. pedido; Samuel Carvalho (MKT & TelCables); reunião ativa.
-- Outlook: 2 notificação(ões) — ex.: Adobe — código de autenticação; Weekly Meeting MKT & TelCables ativo.
-- Messenger: 4 notificação(ões) — ex.: Dario Barata — resposta à história.
-- Relógio: 2 notificação(ões) — ex.: Alarme perdido (08:10); Desligar alarme previsto.
-- SimpleX: 2 notificação(ões) — ex.: hackliberty.org (alerta de link).
-- Instagram: 2 notificação(ões) — ex.: 3+ novas curtidas — story.
-- Pinterest: 1 notificação(ões) — ex.: Ténis Vans.
-- CapCut: 3 notificação(ões) — ex.: Magia da IA, só para você 🌟.
-- Discord: 2 notificação(ões) — ex.: r/debian security — links do netkv.
-- Fotos: 2 notificação(ões) — ex.: Em flagrante; A sua imagem captada pela câmara.
-- Mensagens: 1 notificação(ões) — ex.: SME — pedido #SMEO1711260731600 registado com sucesso.
+- WhatsApp Business: 12 notificações — ex.: oferta iPhone 18 Pro Max (FAMÍLIA SAKANENO); menções em grupos (Underground Lusófono, Hip Hop Interno); fotos (SÓ BUSINESS, Bruno Ice, Fábio).
+- Gmail: 11 notificações — ex.: Wi-Fi NOW, Skilling Hub Frontier Tour, newsletters Wi-Fi 8/WWC, Suporte AngovanVPN.
+- YouTube: 5 notificações — ex.: CEO da Nvidia não reiniciado; outros de entretenimento.
+- LinkedIn: 3 notificações — ex.: menção (Manoel), convite (João Pedro), visualizações do perfil.
+- Instagram: 2 notificações — ex.: 3+ novas curtidas em story; Angola Cables e outras 9 pessoas.
+- Pinterest: 1 notificação — Ténis Vans.
+- SimpleX: 2 notificações — ex.: link hackliberty.org; grupo WrongThink.
+- Fotos: 2 notificações — ex.: Em flagrante; A sua imagem captada pela câmara.
+- Discord: 2 notificações — ex.: r/debian segurança (CVEs Java); esforço Fluxer gaming-hardware.
+- CapCut: 3 notificações — ex.: Magia da IA, só para você.
+- Outlook: 1 notificação — Adobe — código de autenticação.
+- Messenger: 1 notificação — anexo de Hélio Carta Aberta.
+- Relógio: 1 notificação — Desligar o seu alarme previsto?
