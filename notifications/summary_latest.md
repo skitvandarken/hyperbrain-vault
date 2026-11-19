@@ -1,52 +1,43 @@
-## [2026-11-19 15:11] Resumo do Ciclo
+## [2026-11-19 15:14] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
-- Prazo final: Bolsa Sir Cyril Taylor para Jovens Líderes Africanos 2027 — expira hoje 10:00 (alerta 24h).
-- Prazo final: Acelerador AUDA-NEPAD Home Grown Solutions 2027 (União Africana) — expira hoje 09:00.
-- AngolanVPN: atualização rejeitada no Play Console.
-- Samsung Cloud: sincronização falhou — verificar ligação de rede e tentar novamente.
+- Bolsa Sir Cyril Taylor para Jovens Líderes Africanos 2027 — prazo final hoje 10:00 — requer aceção.
+- Acelerador AUDA-NEPAD Home Grown Solutions 2027 (União Africana) — prazo final hoje 09:00.
+- AngolanVPN — atualização rejeitada no Play Console — bloqueio.
+- Samsung Cloud — sincronização falhou — verificar ligação de rede e tentar novamente.
+- Relógio — alarme perdido — confirmar.
+- Relógio — desligar o alarme previsto?
+- SME Marginal — confirmar horário e rota do posto — pendente desde ontem.
+- SME Marginal — pedido de passaporte registado — aguarda emissão em Marginal.
+- GL Services (catering) — Rishid Neto — aclarar carne: vaca ou porco.
 
 ### Movimentos Financeiros & Pagamentos
-- Multicaixa: 3 compras registadas (09:28, 09:32, 09:36) — detalhes não visíveis no log.
-- Multicaixa: Transferência entre cartões — 1.000,00 Kz efetuada com sucesso (09:28).
-- Multicaixa: Transferência Express — 7.000,00 Kz efetuada com sucesso (09:28).
-- Multicaixa: Transferência Bancária — 600,00 Kz efetuada com sucesso (09:28).
+- Multicaixa: 3 compras registadas (09:28–09:36) — detalhes não visíveis no log.
+- Multicaixa: Transferência entre cartões — 1.000,00 Kz efetuada com sucesso.
+- Multicaixa: Transferência Express — 7.000,00 Kz efetuada com sucesso.
+- Multicaixa: Transferência Bancária — 600,00 Kz efetuada com sucesso.
+- WhatsApp Business: ARRENDA SE CASA TIPOLOGIA T1 — 65 mil Kz negociável, taxa de visita ~3.000 Kz, pagamento semestral.
+- WhatsApp Business: ARRENDA-SE QUARTO ESPAÇOSO MOSAICADO — 30 mil Kz negociável, deslocação ~4.000 Kz, pagamento semestral.
 
 ### Operacional & Negócio
-- Residência Artística: Baile de Verão (Camões – CCP Luanda) — 09:30.
-- Cajú Tecnologias — proposta de parceria: revenda autorizada de VSAT/conectividade.
-- Cajú Tecnologias — pedido de proposta técnica de interligação privada (SpaceAll).
-- Sonangol — pedido de interligação privada (SpaceAll): Petróleo e Gás, On-Premise ↔ Cloud.
-- Colégio Sevani Assaz — pedido de interligação privada (SpaceAll): Petróleo e Gás, Angola ↔ exterior.
-- Achekgamer — pedido de interligação privada (SpaceAll): pontos A/B em Angola.
-- ACDA — pedido de interligação privada (SpaceAll): Comércio & Retalho, On-Premise ↔ Cloud.
-- Conta própria — pedido de interligação privada (SpaceAll): Comércio & Retalho.
-- Suporte AngolanVPN — pedido de proposta/interligação privada (SpaceAll).
-- GL Services (catering): pedidos confirmados e encerrados; Adef Star Winner — fotos da residência.
-- GL Services (catering): visita sem detalhe de carne — aclarar se vaca ou porco.
-- Arrendamento: T1 (1 quarto + sala), Gamek — 65 mil Kz negociável, pagamento semestral, taxa de visita ~3.000 Kz.
-- Tarefa pendente: confirmar horário e rota para o posto do SME Marginal (de ontem).
-- SME: pedido de passaporte registado — aguarda emissão em Marginal.
-- Reuniões: Weekly Meeting MKT & TelCables Nigeria — 10:00–11:00 iniciada; participação pedida.
+- Eventos: Residência Artística — Baile de Verão — Camões – CCP Luanda — 09:30.
+- Propostas & parcerias (SpaceAll): Cajú (VSAT/conectividade); interligações privadas: Sonangol, Colégio Sevani Assaz, Achekgamer, ACDA, Gabriel mucanda, Judilson Vieira.
+- Reuniões: Weekly Meeting MKT & TelCables Nigeria — iniciada 10:00–11:00; participação pedida a José K.
 - Treinamento: Microsoft Frontier Tour for Partners — evento presencial de IA/agentic.
-- Angola Cables: Aldair António reage à publicação sobre gestão de projectos e desafios de UX/UI.
-- Angola Cables: Dionísio Hamuyela Dala (Pricing Technician) — 13 pessoas reagem no Africa Tech Festival.
-- Angola Cables (Core Engineering): José Sandele acompanha Africa Business Awards 2026 — 6 finalistas, 1 vencedor.
+- Visibilidade: Angola Cables — Aldair reage a publicação Gestão de Projectos/UX-UI; Dionísio Hamuyela Dala — 13 reagem no Africa Tech Festival; José Sandele — Core Engineering — acompanha Africa Business Awards (6 finalistas).
+- GL Services (catering): Adef Star Winner — pedidos confirmados e encerrados; Fábio — GL1; Gomes Leite — encerrados as 11h.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 19 notificações — ex.: Bruno Ice — fotos; Underground Lusófono — homenagem; UBUNTU SPOKEN — links Instagram.
-- Gmail: 19 notificações — ex.: Extreme Networks — agentic AI Ops economiza horas de suporte.
-- LinkedIn: 3 notificações — ex.: menção em comentário, convite, visualizações do perfil.
-- YouTube: 5 notificações — ex.: Yahoo Finance — decisão sobre reinstauração do CEO da Nvidia.
-- Messenger: 3 notificações — ex.: respostas às histórias.
-- CapCut: 3 notificações — ex.: Magia da IA — criação de vídeos com IA.
-- Fotos: 3 notificações — ex.: em flagrante; imagem captada pela câmara.
-- Agenda: 1 notificação — ex.: atualização de prazo Acelerador AUDA-NEPAD (09:00).
-- Discord: 2 notificações — ex.: alertas de segurança do Debian (Java).
-- Instagram: 2 notificações — ex.: curtidas no story; interações em publicação.
-- Relógio: 2 notificações — ex.: alarme perdido; aviso de alarme.
-- SimpleX: 2 notificações — ex.: hackliberty.org; mensagem em grupo Linux.
-- Outlook: 2 notificações — ex.: Adobe — código de autenticação.
-- Teams: 2 notificações — ex.: reunião iniciada; participação pedida.
-- Pinterest: 1 notificação — ex.: Ténis Vans.
+- WhatsApp Business: 23 notificações — ex.: Bruno Ice — fotos; Underground Lusófono — homenagem; UBUNTU SPOKEN — links.
+- Gmail: 12 notificações — ex.: Extreme Networks — agentic AI Ops economiza >1000 h de suporte.
+- LinkedIn: 5 — ex.: menção em comentário; convite; visualizações do perfil.
+- YouTube: 5 — ex.: Yahoo Finance — decisão sobre reinstauração do CEO da Nvidia; WTF Zone — wedding dress.
+- Messenger: 3 — ex.: respostas às histórias.
+- CapCut: 3 — Magia da IA — criação de vídeos.
+- Fotos: 3 — Em flagrante; imagem captada pela câmara.
+- Instagram: 2 — story curtidas; publicação reações.
+- Discord: 2 — alertas de segurança do Debian (CVEs Java).
+- SimpleX: 2 — hackliberty.org; grupo Linux.
+- Outlook: 2 — Adobe — código de autenticação.
+- Pinterest: 1 — Ténis Vans.
