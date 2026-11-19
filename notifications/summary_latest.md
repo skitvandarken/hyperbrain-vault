@@ -1,40 +1,43 @@
-## [2026-11-19 16:13] Resumo do Ciclo
+## [2026-11-19 16:16] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
-- Bolsa Sir Cyril Taylor 2027 — prazo final 10:00; exige decisão e registo.
-- Acelerador AUDA-NEPAD Home Grown Solutions 2027 — prazo final 09:00; exige oferta/análise.
-- AngovanVPN — atualização no Play Console rejeitada; intervir antes do próximo deploy.
-- Samsung Cloud — falha ao sincronizar dados; verificar ligação de rede e tentar novamente.
-- Residência Artística — Baile de Verão (Camões – CCP Luanda) a partir de 09:30; confirmar presença.
+- Bolsa Sir Cyril Taylor 2027 — prazo final às 10:00; exige registo e decisão de candidatura.
+- Acelerador AUDA-NEPAD Home Grown Solutions 2027 — prazo final às 09:00; exige oferta e avaliação.
+- Atualização AngovanVPN rejeitada no Play Console — bloqueio para próximo deploy; resolver rejeição.
+- Samsung Cloud — falha de sincronização dos dados; verificar ligação de rede e tentar novamente.
+- Residência Artística Baile de Verão (Camões – CCP Luanda) — a partir de 09:30; confirmar presença.
 - Relógio — alarme perdido (Office Time); verificar funcionamento/suprimento.
-- SME Marginal — confirmar horário e rota do posto; pendente desde ontem.
-- Chamada não atendida — retelefonar.
+- SME Marginal — confirmar horário e rota do posto; pendente desde ontem; aguardar situação.
+- Weekly Meeting MKT & TelCables Nigeria — Teams ativo 10:00–11:00; confirmar participação.
+- Login Adobe — código de autenticação recebido; completar verificação.
+- Ligam marcaram sem atender — retelefonar ao remetente.
 
 ### Movimentos Financeiros & Pagamentos
-- Transferência entre cartões — 1.000,00 Kz e 7.000,00 Kz — efetuadas com sucesso.
-- Transferência Bancária — 600,00 Kz — efetuada com sucesso.
-- Compras (Multicaixa) — 3 notificações — sem montante registado; detalhar na origem.
-- Arrenda TIPOLOGIA T1 — 65 mil Kz negociável, taxa de visita 3.000 Kz, pagamento semestral.
-- Arrenda Quarto Espaçoso — 30 mil Kz negociável, deslocação 4.000 Kz, 6 meses.
+- Transferências entre cartões — 1.000,00 Kz; 7.000,00 Kz; 600,00 Kz — efetuadas com sucesso.
+- Compras (Multicaixa) — 3 notificações sem montante registada; detalhar na origem.
+- Aluguel Tipologia T1 — 65.000 Kz negociável; taxa de visita 3.000 Kz; pagamento semestral; comissão no cliente.
+- Aluguel Quarto Espaçoso — 30.000 Kz negociável; deslocação 4.000 Kz; 6 meses; comissão no cliente.
+- Pedidos via WhatsApp Business — pendentes; detalhar origem/destino nos pedidos.
 
 ### Operacional & Negócio
-- Reunião Weekly Meeting MKT & TelCables Nigeria — Outlook 10:00–11:00; reunião ativa no Teams; confirmar participação.
-- Propostas SpaceAll — parceria autorizada de revenda VSAT/Connectividade/Cloud — pedidos via Gmail; pendente análise.
-- Deploy — atualização rejeitada no Play Console (AngovanVPN) — bloqueio para próximo deploy.
-- Login Adobe — código de autenticação disponível — verificar logout.
-- Reações LinkedIn Angola Cables — Africa Tech Festival e Gestão de Projectos Informáticos; Africa Business Awards finalista.
-- GL Services - Catering — pedidos via WhatsApp em andamento; aguardar fechamento.
+- Propostas via Gmail — revenda Enterprise VSAT/conectividade/Cloud — pedidos registados, pendentes de análise.
+- Deploy — VPN Enterprise rejeitada no Play Console — resolver rejeição antes do próximo deploy.
+- Reuniões — Weekly Meeting MKT & TelCables Nigeria — Teams ativo 10:00–11:00; confirmar participação.
+- Reações LinkedIn — Africa Tech Festival e Africa Business Awards 2026; aguardar mensagens/alertas.
+- GL Services - Catering — pedidos via WhatsApp Business em andamento; ex.: fotos de eventos; aguardar fechamento.
+- Pedidos SME Marginal — registado; aguardar Notificação Marginal; monitorar situação.
+- Tarefas — SME Marginal: confirmar horário e rota do posto; pendente desde ontem.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business — 29 notificações — ex.: promoção AngoMart (iPhone 18 Pro Max); fotos/vídeos de SÓ BUSINESS; menções em grupos.
-- Gmail — 20 notificações — ex.: parceria SpaceAll, newsletter Wi-Fi NOW/Microsoft Frontier Tour, reações a pedidos de parceria.
-- LinkedIn — 6 notificações — ex.: menções, convite, visualizações de perfil.
-- YouTube — 5 notificações — ex.: CEO da Nvidia não recomeçado; vídeos de entretenimento.
-- Instagram — 2 notificações — ex.: curtidas no story; reações de Angola Cables.
-- Fotos — 2 notificações — ex.: Em flagrante; imagem captada.
-- SimpleX — 2 notificações — ex.: link hackliberty.org; discussão WrongThink.
-- Discord — 2 notificações — ex.: r/debian segurança (CVEs Java); esforço Fluxer gaming-hardware.
-- CapCut — 3 notificações — criação com IA, recomendações diárias.
-- Pinterest — 1 notificação — Ténis Vans.
-- Messenger — 1 notificação — anexo.
+- WhatsApp Business — ~19 entradas — conversas de catering e promocional em grupos; agregar por chat; ex.: pedidos de catering, fotos e menções.
+- Gmail — ~8 entradas — newsletters de serviços parceiros; ex.: Wi-Fi NOW weekly (17/11) e roundup do mês.
+- LinkedIn — ~6 entradas — reações, menções e visualização de perfil; ex.: reação a Africa Tech Festival (2 reações e 1 visualização).
+- YouTube — 5 entradas — entretenimento; ex.: CEO da Nvidia não será reiniciado.
+- Instagram — 2 entradas — curtidas no story; ex.: teaser do programa.
+- Fotos — 2 entradas — peças promocionais; ex.: Em flagrante e imagem captada.
+- SimpleX — 2 entradas — discussões privadas em grupos; ex.: WrightThink (WrongThink).
+- Discord — 2 entradas — r/debian segurança; ex.: alerta de segurança CVEs de Java.
+- CapCut — 3 entradas — promoção de IA; ex.: 14 fotos e clipes promocionais.
+- Pinterest — 1 entrada — Ténis Vans.
+- Messenger — 1 entrada — resposta a história.
