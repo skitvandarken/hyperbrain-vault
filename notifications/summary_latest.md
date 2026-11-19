@@ -1,48 +1,47 @@
-## [2026-11-19 10:42] Resumo do Ciclo
+## [2026-11-19 10:44] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
-- Evento hoje: Baile de Verão (Residência Artística, Camões) — 09:30 — confirmar presença.
-- Prazo Final: Bolsa Sir Cyril Taylor 2027 — 10:00 (alerta 24h).
-- Prazo Final: Acelerador AUDA-NEPAD Home Grown Solutions 2027 — 09:00 (atualizado).
-- Confirmar horário e rota para o posto do SME Marginal (Tasks).
-- Teams: pedido para participar numa reunião — aceitar/recusar?
-- AngovanVPN: atualização do app (IP Angolano) rejeitada (Play Console) — verificar motivo.
-- Alarme picar de ponto perdido — 08:10 (Relógio).
-- Entrar na conta da Adobe — código recebido (Outlook).
-- GL Services: seguimentos antigos não chegaram — comprovar.
+- Baile de Verão: Residência Artística, Camões – CCP Luanda — 09:30 — confirmar presença.
+- Bolsa Sir Cyril Taylor 2027 (AFS Youth Assembly, Suíça) — Prazo final 10:00 — agir.
+- Acelerador AUDA-NEPAD Home Grown Solutions 2027 — Prazo final 09:00 — atualizado — agir.
+- SME Marginal: confirmar horário e rota do posto (Tasks).
+- Teams: José K. pediu para participar de reunião — aceitar/recusar.
+- AngovanVPN: atualização (IP Angolano) rejeitada no Play Console — verificar motivo.
+- Alarme de ponto perdido — 08:10 (Office Time) — resolver.
+- Adobe: código de autenticação recebido — logar na conta.
+- Spaceall: consultas de interligação privada (Gmail/WhatsApp) — sugerir resposta comparativa.
+- CAJÚ Tecnologias: parceria VSAT/conectividade — sugerir confirmar interesse.
+- Achekgamer: consulta de interligação via Gmail — sugerir retorno.
 
 ### Movimentos Financeiros & Pagamentos
 - 3 compras registadas no Multicaixa — detalhe disponível na app.
-- Transferência entre cartões — 1.000,00 Kz — efetuada.
-- Transferência Express — 7.000,00 Kz — efetuada.
-- Transferência Bancária — 600,00 Kz — efetuada.
-- Arrendamento quarto T1 — 65MIL KZ negociável, taxa de visita 3.000KZ, pagamento semestral.
-- Arrendamento quarto espacioso mosaicado — 30 MIL KWANZAS negociável, semestral 6 meses, deslocção 4.000KZS.
+- Transferência entre cartões — 1.000,00 (Kz) — efetuada com sucesso.
+- Transferência Express — 7.000,00 (Kz) — efetuada com sucesso.
+- Transferência Bancária — 600,00 (Kz) — efetuada com sucesso.
+- Arrendamento quarto T1 — 65MIL (Kz) negociável — pagamento semestral, taxa de visita 3.000 (Kz).
 
 ### Operacional & Negócio
-- MKT & TelCables Nigeria — reunião weekly iniciada (Teams, 10:00-11:00).
-- SME Marginal: pedido registado; passaporte pronto para emissão em Marginal.
-- GL Services: confirmação de encerramento dos pedidos antigos (cliente).
-- WhatsApp Não quero saber: grupo de Assembleia Nacional de Angola — político.
-- Spaceall (via Gmail): consultas de Sonangol, Colégio Sevani Assaz e ACDA — interligação privada — sugerir resposta comparativa.
-- Spaceall (via WhatsApp): consultas de Sonangol e ACDA — sugerir retorno/orçamento.
-- Sonangol (via WhatsApp): proposta Escritório↔Cloud — sugerir orçamento/SLA.
-- CAJÚ Tecnologias (via Gmail): parceria de revenda VSAT/conectividade — sugerir confirmar interesse.
-- Achekgamer: consulta via Gmail — Ponto A↔Ponto B — sugerir retorno.
+- MKT & TelCables Nigeria: reunião weekly no Teams (10:00–11:00) — José K. pediu participação — decidir.
+- SME Marginal: pedido registado, passaporte pronto para emissão — confirmar horário e rota.
+- Spaceall: interligações privadas (Gmail: Sonangol, ACDA, Colégio Sevani Assaz) — sugerir resposta comparativa.
+- Sonangol (WhatsApp): proposta Escritório↔Cloud — sugerir orçamento e SLA.
+- CAJÚ Tecnologias: parceria VSAT/conectividade — sugerir confirmar interesse.
+- Achekgamer: consulta via Gmail — sugerir retorno.
+- GL Services - Catering: confirmações de encerramento de pedidos — primeira compra não chegou — comprovar.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp: ~28 notificações — grupos diversos — ex.: FAMÍLIA SAKANENO (AngoMart giveaway), SÓ BUSINESS (GL Services).
-- LinkedIn: 6 notificações — ex.: reação em post de Gestão de Projectos, visualização de perfil, convite aceito.
-- YouTube: 5 notificações — ex.: Nvidia CEO news, vídeos curtos musicais.
-- Gmail: ~7 notificações — newsletters Wi-Fi NOW, Microsoft AI Cloud Partner Program, Skilling Hub Events.
-- Messenger: 4 notificações — respostas a histórias.
-- Instagram: 3 notificações — curtidas de story, DM de Angola Cables.
-- CapCut: 3 notificações — recomendações de vídeo.
-- Fotos: 3 notificações — imagens captadas.
-- Telefone: 1 notificação — chamada não atendida.
-- Samsung Cloud: 1 notificação — falha de sincronização.
-- SimpleX: 2 notificações — grupo hackliberty.org.
-- Discord: 2 notificações — news Debian Community (Linux, Steam Deck).
-- Pinterest: 1 notificação — Ténis Vans.
-- Relógio: 2 notificações — lembretes de alarme.
+- WhatsApp: ~28 notificações — ex.: SÓ BUSINESS (GL Services), FAMÍLIA SAKANENO (giveaway), Underground Lusófono (autorizações).
+- Gmail: ~7 notificações — newsletters Wi-Fi NOW, Microsoft AI Cloud Partner Program, Skilling Hub Events, WWC Europe.
+- LinkedIn: ~6 notificações — ex.: reações em publicações, visualizações de perfil.
+- YouTube: ~5 notificações — ex.: Nvidia CEO, vídeos musicais curtos.
+- Messenger: 4 respostas a histórias.
+- Instagram: 3 notificações — curtidas de story, DMs.
+- CapCut: 3 recomendações de vídeo.
+- Fotos: 3 imagens captadas pela câmara.
+- Discord: 2 notificações — news Debian Community (Steam Deck).
+- SimpleX: 2 notificações — hackliberty.org.
+- Relógio: 2 lembretes de alarme.
+- Samsung Cloud: falha de sincronização.
+- Telefone: 1 chamada não atendida.
+- Pinterest: Ténis Vans.
