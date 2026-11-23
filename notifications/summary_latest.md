@@ -1,42 +1,96 @@
-## [2026-11-23 14:30] Resumo do Ciclo
-
+## [2026-11-23 14:41] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
-- Outlook — Comunicado interno: Reforço urgente dos procedimentos de segurança e energia nas instalações Rosalinda (10:41); cumprir os procedimentos.
-- Google Play — Alerta de limite de armazenamento na conta: Gmail, Google Fotos e Drive podem ser afetados (10:03); verificar espaço/atualizar.
-- Google — Alerta de segurança: app Google Auth Library acedesse a dados da conta Google (12:31); verificar atividade e proteger a conta.
-- GitHub — Deploy spaceallcorp/tceu prod: 2 runs falharam (10:11); retries em 10:25 (c05cfb3) e 10:51 (dc6695f) sucederam.
+- 04:45 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO (2 mensagens) — J-MC aka Congo Records Congo Records: 🔗 O KID MC NÃO CONHECIA O BRIGADEIRO 10 PACOTES - SI… (youtu.be) _(atualização)_
+- 04:57 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO (2 mensagens) — J-MC aka Congo Records Congo Records: 🔗 O KID MC NÃO CONHECIA O BRIGADEIRO 10 PACOTES - SI… (youtu.be) _(atualização)_
+- 10:11 [GitHub] Run failed — spaceallcorp/tceu ⏎ 🚀 Secure Angular Deploy with Firebase v2 (Optimized) - prod (d7ea319)
+- 10:11 [GitHub] Run failed — spaceallcorp/tceu ⏎ 🚀 Secure Angular Deploy with Firebase v2 (Optimized) - prod (2343034)
+- 10:41 [Outlook] Comunicação Interna — Comunicado Interno | Reforço Urgente dos Procedimentos de Segurança e Utilização Responsável de Energia – Instalações Rosalinda ⏎ COMUNICADO INTERNO N.º 015/GCI/2026 Caros Colaboradores, Reforçamos…
+- 12:49 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO (2 mensagens) — J-MC aka Congo Records Congo Records: 🔗 O KID MC NÃO CONHECIA O BRIGADEIRO 10 PACOTES - SI… (youtu.be) _(atualização)_
+- 12:57 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO (2 mensagens) — J-MC aka Congo Records Congo Records: 🔗 O KID MC NÃO CONHECIA O BRIGADEIRO 10 PACOTES - SI… (youtu.be) _(atualização)_
 
 ### Movimentos Financeiros & Pagamentos
-- Compras — Multicaixa (2 notificações, 10:03/10:05); detalhe da compra disponível na app.
-- Tasks — Meta Água: separar 5.000 Kz esta semana para fundo de reservatório/tanque; poupança estimada 35.000 Kz/mês (10:03).
-- Multicaixa — Transferência Express: 2.000,00 Kz sucesso (13:15); 200,00 Kz sucesso (13:23).
+- 10:03 [Multicaixa] Compra — Veja aqui o detalhe da sua compra
+- 10:03 [Tasks] Meta Água: Reservar 5.000 Kz/semana para compra de Reservatório/Tanque — Separar 5.000 Kz esta semana para o fundo de aquisição de reservatório/bombona de água (1.000L a 2.000L), permitindo substituir o gasto de 2.000 K…
+- 10:05 [Multicaixa] Compra — Veja aqui o detalhe da sua compra
+- 13:15 [Multicaixa] Transferência Express — Transferência de 2.000,00 (Kz) efetuada com sucesso
+- 13:23 [Multicaixa] Transferência Express — Transferência de 200,00 (Kz) efetuada com sucesso
 
 ### Operacional & Negócio
-- GL Services (WhatsApp Business) — comida sem entrega ao Amâncio Pedro (11:29); latência registrada (kiene Tchiyo, 10:25); motoqueiro já partiu (10:29/11:51).
-- AFRACOM 2026 - COMM — documento interno pendente: reportar dificuldades do acervo de material ao Claúdio Gomes (Walter Fernandes, 11:13).
-- Alinhamento MKT - Digital & Estratégia - Vertical — normas de marca aplicadas aos locais dos logos (Joel Oliveira 12:37; José Kayesse 12:39/13:37).
-- Proposta de ligação privada — SPACEALL ↔ Clouds2Africa (Escritório ↔ Cloud), aguardando resposta (12:31).
-- LinkedIn — publicações: Aldair António (UX/UI, Angola Cables), Augusto Batista (Analista Funcional, MARK SELLER ANGOLA), Danilson Cabila (Gestor Comercial, Angola Cables; PhD conferência Tokyo MobiHoc), Rivaldo Jamba (10:03).
-- Chrystal Singh (Teams) — pedidos de arquivo a partilhar arquivos/videos de parceiros (11:39-12:03).
-- ACELERA CLOUD — Nova Candidatura SPACEALL (Outlook, 10:03).
+- 04:45 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
+- 04:45 [Gmail] Wi-Fi NOW — Deep learning: Watch ALL this year's WWC Europe sessions - at your leisure! ⏎ Eighteen expert sessions. Watch any time, at your own pace. ⏎ WiFi World Congress Europe 2026 ⏎ View this email in your browser ⏎… _(atualização)_
+- 04:45 [Gmail] Dave at Wordly — Wordly Just Passed 8 Million Users ⏎ Plus two industry honors and three new features for your next event ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏… _(atualização)_
+- 04:45 [Gmail] Skilling Hub Events — Microsoft Frontier Tour for Partners is back! ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Hello, ⏎ As part of the Microsoft Partner Skilling Hub community, you'… _(atualização)_
+- 04:45 [WhatsApp Business] #17 Imersão FullCycle (198 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: É AMANHÃ! Sua preparação para 2027 começa às 19h! 🔥 ⏎ Vai começar nossa série de 3 aulas gratuitas e ao vivo, via Zoom, pra mostrar… _(atualização)_
+- 04:45 [WhatsApp Business] Google Developer Group(GDG)- Luanda (4038 mensagens) — Cliente DevCamp24: Quando usas 100% do cérebro. _(atualização)_
+- 04:45 [WhatsApp Business] #26 Semana do arquiteto FC (171 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: É AMANHÃ! Sua preparação para 2027 começa às 19h! 🔥 ⏎ Vai começar nossa série de 3 aulas gratuitas e ao vivo, via Zoom, pra mos… _(atualização)_
+- 04:57 [WhatsApp Business] #17 Imersão FullCycle (198 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: É AMANHÃ! Sua preparação para 2027 começa às 19h! 🔥 ⏎ Vai começar nossa série de 3 aulas gratuitas e ao vivo, via Zoom, pra mostrar… _(atualização)_
+- 04:57 [WhatsApp Business] Google Developer Group(GDG)- Luanda (4038 mensagens) — Cliente DevCamp24: Quando usas 100% do cérebro. _(atualização)_
+- 04:57 [WhatsApp Business] #26 Semana do arquiteto FC (171 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: É AMANHÃ! Sua preparação para 2027 começa às 19h! 🔥 ⏎ Vai começar nossa série de 3 aulas gratuitas e ao vivo, via Zoom, pra mos… _(atualização)_
+- 06:36 [GitHub] Run succeeded — spaceallcorp/tceu ⏎ 🚀 Secure Angular Deploy with Firebase v2 (Optimized) - prod (b91830a)
+- 10:03 [GitHub] Run succeeded — spaceallcorp/tceu ⏎ 🚀 Secure Angular Deploy with Firebase v2 (Optimized) - prod (b91830a) _(atualização)_
+- 10:03 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
+- 10:03 [Gmail] Wi-Fi NOW — Deep learning: Watch ALL this year's WWC Europe sessions - at your leisure! ⏎ Eighteen expert sessions. Watch any time, at your own pace. ⏎ WiFi World Congress Europe 2026 ⏎ View this email in your browser ⏎… _(atualização)_
+- 10:03 [Gmail] Dave at Wordly — Wordly Just Passed 8 Million Users ⏎ Plus two industry honors and three new features for your next event ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏… _(atualização)_
+- 10:03 [LinkedIn] Aldair António — UX/UI Designer da empresa Angola Cables e mais 27 pessoas reagiram a uma publicação: Um ciclo que se encerra, uma nova etapa que começa! Na passada quarta-feira, 18 de Novembro, tive a honra e a alegria…
+- 10:03 [LinkedIn] Augusto Baptista — Desenvolvedor web da empresa MARK SELLER ANGOLA e mais 38 pessoas reagiram a uma publicação: Tenho o prazer de compartilhar que estou começando a trabalhar como Analista Funcional na empresa Selenium…
+- 10:03 [LinkedIn] Danilson Cabila — Gestor Comercial da empresa Angola Cables e mais 34 pessoas reagiram a uma publicação: I'm in Tokyo, Japan 🇯🇵 this week, presenting my PhD research at ACM MobiHoc 2026, a prestigious conference with…
+- 10:03 [LinkedIn] Rivaldo Jamba — Você tem novas notificações de Rivaldo Jamba e Frederico Daniel. E mais 4 atualizações.
+- 10:03 [Outlook] ACELERA CLOUD | CANDIDATURAS — Fwd: ACELERA CLOUD | Nova Candidatura: ⏎ -------- Mensagem original -------- Assunto: ACELERA CLOUD | Nova Candidatura: Data: 2026-04-29 18:53 De: candidaturas@acelera.clouds2africa.com Pa…
+- 10:03 [Outlook] Vita Ngombo — RE: Pedido de contacto: África Subsaariana ⏎ Bom dia Lukeba, Tomei boa nota, darei o devido tratamento. Obrigada. De: Lukeba Jorge <lukeba.jorge@angolacables.com> Enviado: 23 de novembro de 2026 06:27 Para…
+- 10:07 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
+- 10:07 [Gmail] Wi-Fi NOW — Deep learning: Watch ALL this year's WWC Europe sessions - at your leisure! ⏎ Eighteen expert sessions. Watch any time, at your own pace. ⏎ WiFi World Congress Europe 2026 ⏎ View this email in your browser ⏎… _(atualização)_
+- 10:07 [Gmail] Dave at Wordly — Wordly Just Passed 8 Million Users ⏎ Plus two industry honors and three new features for your next event ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏… _(atualização)_
+- 10:25 [GitHub] Run succeeded — spaceallcorp/tceu ⏎ 🚀 Secure Angular Deploy with Firebase v2 (Optimized) - prod (c05cfb3)
+- 10:31 [Teams] Lukeba e Marcos: Marcos Stefan — Boas
+- 10:49 [Outlook] Marcos Stefan — RE: ACELERA CLOUD | Nova Candidatura: SPACEALL ⏎ Saudações, @Lukeba Jorge
+- 10:51 [GitHub] Run succeeded — spaceallcorp/tceu ⏎ 🚀 Secure Angular Deploy with Firebase - prod (dc6695f)
+- 10:57 [Teams] AFRICACOM 2026 - COMM — Joel Oliveira: Eu agradeço também pelo suporte Walter Fernandes
+- 11:13 [Teams] AFRICACOM 2026 - COMM — Walter Fernandes: Everyone, precisamos criar um documento interno para ser entregue ao Claúdio Gomes, reportando as dificuldades que temos em ter um acervo do material que é produzido por nós (Ga… _(atualização)_
+- 11:27 [Teams] AFRICACOM 2026 - COMM — Walter Fernandes: Bom dia Joel. Obrigado. _(atualização)_
+- 11:39 [Teams] Chrystal Singh — Please can you share that partner video with me, I want to get another forum to post it to their database
+- 11:41 [Teams] Chrystal Singh — Hi Hi _(atualização)_
+- 11:45 [Outlook] There's new activity in Teams — You have 2 messages, 1 mention ⏎ Eu agrade?o tamb?m pelo suporte Walter Fernandes ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?…
+- 11:49 [Teams] Chrystal Singh — smallest please _(atualização)_
+- 11:51 [Teams] Chrystal Singh — want them to email their database _(atualização)_
+- 11:53 [Teams] Chrystal Singh — thank you _(atualização)_
+- 12:03 [Teams] Chrystal Singh — file please _(atualização)_
+- 12:31 [Gmail] Sebastião Hombe — [Solicitação de Proposta] Sé cleam - Sebastião José Manuel Dombo Hombe ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Sebastião José Manuel Dombo Hombe ⏎ Empresa: S…
+- 12:31 [Gmail] AliExpress — Novidade que já está fazendo sucesso ⏎ Dá uma olhada, não vai se arrepender ⏎ . ⏎ . ⏎ -39% ⏎ . ⏎ 125.365,37 Kz ⏎ . ⏎ -19% ⏎ . ⏎ 120.101,60 Kz ⏎ . ⏎ -52% ⏎ . ⏎ 129.082,90 Kz ⏎ . ⏎ Veja as ofertas ⏎ . ⏎ . ⏎ -…
+- 12:31 [Gmail] Google — Alerta de segurança ⏎ Permitiu que a app Google Auth Library acedesse a alguns dos dados da sua Conta Google ⏎ fluxodigital2017@gmail.com ⏎ Se não permitiu que a app Google Auth Library acedesse a alguns dos da…
+- 12:37 [Teams] Alinhamento MKT - Digital & Estratégia - Vertical — Nsucami Victor: José Kayesse sem logos 👆🏾 os locais para os logos já estão indicados, podem se basear nos criativos anteriores… Joel Oliveira _(atualização)_
+- 12:39 [Teams] Alinhamento MKT - Digital & Estratégia - Vertical — Nsucami Victor: Feito, 👆🏾 _(atualização)_
+- 12:49 [Outlook] There's new activity in Teams — You have 2 messages, 1 mention ⏎ Eu agrade?o tamb?m pelo suporte Walter Fernandes ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?… _(atualização)_
+- 12:49 [Teams] AFRICACOM 2026 - COMM — Walter Fernandes: Bom dia Joel. Obrigado. _(atualização)_
+- 12:49 [Teams] Chrystal Singh — file please _(atualização)_
+- 12:49 [Teams] Lukeba e Marcos: Marcos Stefan — Boas _(atualização)_
+- 12:49 [Teams] Alinhamento MKT - Digital & Estratégia - Vertical — Nsucami Victor: Feito, 👆🏾 _(atualização)_
+- 12:49 [WhatsApp Business] #17 Imersão FullCycle (198 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: É AMANHÃ! Sua preparação para 2027 começa às 19h! 🔥 ⏎ Vai começar nossa série de 3 aulas gratuitas e ao vivo, via Zoom, pra mostrar… _(atualização)_
+- 12:49 [WhatsApp Business] #26 Semana do arquiteto FC (171 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: É AMANHÃ! Sua preparação para 2027 começa às 19h! 🔥 ⏎ Vai começar nossa série de 3 aulas gratuitas e ao vivo, via Zoom, pra mos… _(atualização)_
+- 12:57 [WhatsApp Business] #17 Imersão FullCycle (198 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: É AMANHÃ! Sua preparação para 2027 começa às 19h! 🔥 ⏎ Vai começar nossa série de 3 aulas gratuitas e ao vivo, via Zoom, pra mostrar… _(atualização)_
+- 12:57 [WhatsApp Business] #26 Semana do arquiteto FC (171 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: É AMANHÃ! Sua preparação para 2027 começa às 19h! 🔥 ⏎ Vai começar nossa série de 3 aulas gratuitas e ao vivo, via Zoom, pra mos… _(atualização)_
+- 13:19 [Outlook] SGI — SGI (IMS) | CERTIFICAÇÕES (CERTIFICATIONS) | 2026 - AGENDA (SCHEDULE) | SAIBA MAIS (LEARN MORE)! ⏎ Atenciosamente / Best Regards SGI | mob: sgi.global@angolacables.co.ao https://www.angolacables.co.ao | AS 37468 A…
+- 13:37 [Teams] Alinhamento MKT - Digital & Estratégia - Vertical — José Kayesse: Os logos vão ser aplicados com base nas normas da marca _(atualização)_
+- 13:51 [WhatsApp Business] #17 Imersão FullCycle (199 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: HOJE É O GRANDE DIA! 🚀 ⏎ Às 19h, começa nossa série de 3 aulas gratuitas e ao vivo, para mostrar como evoluir suas habilidades, dese… _(atualização)_
+- 13:55 [WhatsApp Business] #26 Semana do arquiteto FC (172 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: HOJE É O GRANDE DIA! 🚀 ⏎ Às 19h, começa nossa série de 3 aulas gratuitas e ao vivo, para mostrar como evoluir suas habilidades,… _(atualização)_
+- 13:59 [Teams] José Kayesse — https://www.linkedin.com/showcase/145486390/admin/dashboard/
+- 14:39 [Teams] Marcos Stefan — Estás num meeting? _(atualização)_
+- 14:41 [Teams] Marcos Stefan — Chamada não atendida
+- 14:41 [Teams] Marcos Stefan — Vou agora para copa, podemos conversar lá _(atualização)_
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business — ~50 — ex.: spam do Não quero saber, anúncios do SÓ BUSINESS, promoções 19h (Imersão FullCycle)
-- Gmail — ~30 — ex.: newsletters Wi-Fi NOW, ofertas AliExpress, alerta internacional
-- YouTube — 13 — ex.: beats Stu Bangas, Uncle Dungus comedy, músicas variadas
-- Instagram — 9 — ex.: stories de curtidas, Fluxodigital gratidão
-- Outlook — 6 — ex.: ACELERA Spa,Marcos Stefan, vitas
-- LinkedIn — 0 — omitido
-- SimpleX — 5 — ex.: hackliberty.org opiniões
-- Teams — 3 — ex.: Lukeba e Marcos, Joel Oliveira
-- Multicaixa — 4 — ex.: Compras pix, transferências pix
-- Mensagens — 3 — ex.: UNITEL, Conteúdo sensível
-- Pinterest — 3 — ex.: Fluxodigital
-- Messenger — 3 — ex.: Pedro Thiago, Yano, Adilson Daniel
-- Relógio — 4 — ex.: desligar alarme
-- Tempo — 4 — ex.: Belas UV/chuva
-- Fotos — 1 — ex.: Reparou nos detalhes
-- Telefone — 1 — ex.: Chamada não atendida (Mena Africell)
-- Samsung Push — 1 — ex.: Galaxy A08
-- Samsung Cloud — 1 — ex.: backup automático
+- WhatsApp Business: 36 notificação(ões) — ex.: Não quero saber (2 mensagens) — ~ Setilson Nguvulo: 🔗 Setilson Nguvulo (www.facebook.com)
+- Gmail: 20 notificação(ões) — ex.: Milesight IoT Marketing Team — Live Webinar | Make HVAC More Energy-Efficient in Europe ⏎ Explore energy-effi…
+- YouTube: 16 notificação(ões) — ex.: Stu Bangas — “Twice Dead” - Stu Bangas (Available Beat - Read Description) Grimy Boombap Beat #hiphopbeat
+- Instagram: 6 notificação(ões) — ex.: 2+ novas curtidas — No seu story
+- SimpleX: 5 notificação(ões) — ex.: hackliberty.org — Quantum Supremacy movie seems to think we will be able to outwit it when they come back to…
+- Relógio: 4 notificação(ões) — ex.: Desligar o seu alarme previsto?
+- Tempo: 4 notificação(ões) — ex.: Hoje — Quilamba Quiaxi | Aguaceiros matinais. Máx.: 29-31°C, mín.: 24-26°C.
+- Messenger: 3 notificação(ões) — ex.: Pedro Thiago — Forte abraço
+- Mensagens: 3 notificação(ões) — ex.: UNITEL — Restam 200MB de volume do teu plano de net. Carrega a tua Net numa loja Unitel, Agente, Multicaixa E…
+- Pinterest: 3 notificação(ões) — ex.: Olá, tu
+- Fotos: 1 notificação(ões) — ex.: Reparou nos detalhes? — 👀
+- Samsung Push Service: 1 notificação(ões) — ex.: Conheça o Galaxy A08 — O trabalho termina. O seu dia continua.
+- Serviços do Google Play: 1 notificação(ões) — ex.: O Gmail vai deixar de funcionar em breve — Quando atinge o limite de armazenamento da sua conta, o Gmail, o G…
+- Samsung Cloud: 1 notificação(ões) — ex.: Cópia segurança auto. — Cópia seg. automática dos dados…
+- Telefone: 1 notificação(ões) — ex.: Chamada não atendida — Mena Africell
