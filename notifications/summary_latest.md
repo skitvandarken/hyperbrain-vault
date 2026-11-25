@@ -1,30 +1,25 @@
-## [2026-11-25 11:44] Resumo do Ciclo
+## [2026-11-25 11:50] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
-- Prazo Final: Manifestação de Interesse ONGD – Parceiras IRR — 09:00 (Camões).
-- Suporte VPN — login recusado recorrente, exige apoio humano.
+- Prazo final em 09:00 — Manifestação de Interesse ONGD – Parceiras IRR (Camões).
+- VPN Angowan — login recusado ao tentar entrar, exige apoio humano.
 
 ### Movimentos Financeiros & Pagamentos
-- Apartamento T-1 — 120 mil KZS fixo, taxa 4 mil KZS (WhatsApp Business, 10:57).
-- Espaço comercial — 400 mil KZS/mês negociável, pagamento semestral, comissão na parte do cliente, taxa 4 mil KZS (WhatsApp Business).
-- Localidade do espaço: pátio/região Golf 2, perto do Triângulo Antiga.
+- Apartamento T-1 (Morro-Bento) — 120 mil KZS fixo; taxa de serviço 4 mil KZS; comissão parcial no cliente.
+- Espaço comercial (região Golf 2, Triângulo Antiga) — 400 mil KZS/mês negociável; pagamento semestral; taxa 4 mil KZS.
 
 ### Operacional & Negócio
-- Gmail — pedidos de proposta de interligação privada (vários), topologia Angola ↔ exterior, segmentos Petróleo/Gás e Comércio & Retalho, via VPN Enterprise App.
-- WhatsApp Business #26 Semana do arquiteto FC (181 mensagens) e #17 Imersão FullCycle (208) — convites a lives com link Zoom.
-- GL Services — conversas de serviço recorrentes, sem alertas operacionais claros.
+- Propostas de interligação privada via VPN Enterprise App — Angola↔exterior e On-Premise↔Cloud; segmentos Petróleo/Gás e Comércio & Retalho.
+- Aulas ao vivo do Full Cycle — "#26 Semana do arquiteto FC" e "Imersão FullCycle": links Zoom disponibilizados.
+- GDG Luanda — debate sobre entrada na área e trilhas para quem quer começar.
+- GL Services — conversas recorrentes de serviço.
+- Emerson Mediapro — detalhamento de tripés.
+- Messenger — início de sessão em várias contas.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: ~20 notificações — ex.: Não quero saber (7-8 mensagens), GL Services, Roupas do soba 36 (566+ mensagens).
-- Fotos: 3 notificações — ex.: Reparou nos detalhes?
-- YouTube: 5 notificações — ex.: fantano — ARE WE DEADASS 😭.
-- Gmail: ~4 notificações — ex.: Wi-Fi NOW (UWB: 1,18 milhões de dispositivos em 2030).
-- Mensagens: 2 — ex.: Theo Universo Digital (câmera/baterias).
-- SimpleX: 2 — ex.: Linux (opinião sobre o app).
-- Instagram: 1 — novo seguidor.
-- Messenger: 1 — sessões multiplas.
-- Telefone: 1 — Chamada não atendida.
-- Tempo: 1 — UV será extremo, limite exposição solar.
-- AngowanVPN: 1 — Não ligado.
-- Captura Samsung: 1 — tela guardada.
+- WhatsApp Business — 35 notificações (ex.: OS AMIGOS DO PROPRIO AMOROSO CRITICO, Eládio Lopes, Roupas do soba 36).
+- Fotos — 4 notificações (ex.: Reparou nos detalhes?).
+- YouTube — 8 notificações (ex.: fantano, WTF Zone).
+- SimpleX — 2 notificações (ex.: Linux).
+- Instagram, Captura Samsung, Telefone, Tempo, AngowanVPN — 1 cada.
