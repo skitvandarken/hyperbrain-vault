@@ -1,26 +1,28 @@
-## [2026-11-25 09:01] Resumo do Ciclo
+## [2026-11-25 09:06] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
 - Manifestação de Interesse ONGD – Parceiras IRR (Camões): prazo final 09:00 — confirmar presença no ato em Camões (Centro Cultural Português, Luanda).
-- Cliente relatou falha de login ao VPN (Suporte AngolanVPN) — retomar acesso.
+- Suporte VPN: cliente sem acesso — retomar login.
+- Pedidos de interligação via VPN Enterprise — avaliar aceitação/recusa (segmentos Petróleo e Gás, Comércio & Retalho, Escritório/Corporativo).
 
 ### Movimentos Financeiros & Pagamentos
-- Oportunidade de aluguer de espaço comercial (Luanda, estado: recebida): 400 mil KZ mensais, negociável, pagamento semestral; comissão de cliente; taxa de serviço 4000 KZ.
+- Aluguer de espaço comercial (Golf 2/Triângulo Antiga, Luanda): 400 mil KZ mensal, negociável (pagamento semestral), comissão ao cliente, taxa de serviço 4.000 KZ; estado recebida.
 
 ### Operacional & Negócio
-- Propostas de interligação privada via VPN Enterprise (A ↔ B): 9 pedidos recebidos (Comércio & Retalho, Escritório/Corporativo, Petróleo e Gás) — pendentes avaliação e decisão.
+- Propostas de interligação via VPN Enterprise — pendentes avaliação e decisão (segmentos Petróleo e Gás, Comércio & Retalho, Escritório/Corporativo).
 - GL Services (Catering): visto recebido — confirmado.
-- WhatsApps Full Cycle (#26 Semana do arquiteto FC e #17 Imersão): menções ao seu nome e links de aula ao vivo — definir participação.
+- WhatsApps Full Cycle (#26 Semana do arquiteto FC, #17 Imersão FullCycle): menções ao seu nome — definir participação nas aulas ao vivo.
 - Emerson Mediapro: tripod já aglutinado — confirmar necessidade.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 5 notificação(ões) — ex.: Não quero saber (fotos recebidas).
-- YouTube: 5 notificação(ões) — ex.: fantano — ARE WE DEADASS 😭.
-- Mensagens: 3 notificação(ões) — ex.: Africell — pacote esgotou aos 50%.
-- Fotos: 2 notificação(ões) — ex.: Reparava nos detalhes? 👀.
-- Instagram: 1 notificação(ões) — ex.: Novo seguidor.
-- Messenger: 1 notificação(ões) — ex.: login multi-conta num telemóvel.
-- SimpleX: 2 notificação(ões) — ex.: Linux — "não é thorogade mas ajuda muito".
-- Telefone: 1 notificação(ões) — ex.: Chamada não atendida.
-- Tempo: 1 notificação(ões) — ex.: Índice de UV extremo; limitar exposição solar.
+- Gmail: pedidos de interligação e tentativas de login ao VPN — pendentes.
+- WhatsApp Business: ~14 — Não quero saber (fotos), Full Cycle (#26, #17), Hip Hop Interno Bruto — verificar fotos/mensagens.
+- YouTube: 5 — exemplo: fantano — ARE WE DEADASS 😭.
+- SimpleX: 2 — Linux (não é completo mas ajuda muito); hackliberty.org (sugestão: paypal → ethereum → monero).
+- Fotos: 2 — Reparou nos detalhes? 👀.
+- Instagram: 1 — Novo seguidor.
+- Messenger: 1 — login multi-conta num telemóvel disponível.
+- Telefone: 1 — Chamada não atendida.
+- Tempo: 1 — Índice de UV extremo; limitar exposição solar.
+- Mensagens: esgotou 50% do pacote Africell; sony z150 4K, tripe, ≈1.000.000 KZ/dia.
