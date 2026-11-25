@@ -1,26 +1,28 @@
-## [2026-11-25 09:36] Resumo do Ciclo
+## [2026-11-25 09:42] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
-- Prazo na agenda: Manifestação de Interesse ONGD – Parceiras IRR (Camões) — 09:00 h hoje.
-- Suporte AngovanVPN: bloqueio de login do cliente, registos repetidos hoje (não consigo entrar).
-- VPN desligada (AngovanVPN) — falha de conectividade detetada.
+- Prazo: Manifestação de Interesse ONGD – Parceiras IRR — 09:00 h hoje.
+- VPN AngovanVPN: falha de conectividade (desligada/desconectada).
+- VPN: bloqueio de login relatado — acesso intermitente.
 
 ### Movimentos Financeiros & Pagamentos
-- Só Business: aluguer de espaço comercial — 400 mil kz/mês negociável, pagamento semestral; cliente paga comissão; taxa de serviço 4000 kz.
+- Aluguer de espaço comercial — 400 mil kz/mês negociável, pagamento semestral; taxa de serviço 4000 kz, sem dados de conta detetados no log.
 
 ### Operacional & Negócio
-- Propostas Spaceall: várias solicitações de interligação privada hoje (clientes diversos) — aguardar resposta.
-- Suporte AngovanVPN: problema de login do cliente aguardando resolução.
-- Missões de Divulgação: aulas ao vivo Full Cycle (Semana do arquiteto FC, Imersão) — pedidos de participação em grupos.
-- GL Services: notificações de visitas confirmadas em grupos — aglutinadas, pendentes de acompanhamento.
-- Emerson Mediapro: follow-up logístico (tripés) enviado — aglutinado, aguarda confirmação.
+- Propostas SPACEALL — solicitações de interligação privada (Angola ↔ exterior; Petróleo e Gás, Comércio & Retalho) — aguardar resposta.
+- GL Services — visitas confirmadas em grupos (GL 1, 3.788–3.796 mens.) — aguardar acompanhamento.
+- Emerson Mediapro — follow-up logístico (tripés) enviado, aguarda confirmação.
+- Full Cycle — aulas ao vivo (Semana do arquiteto, Imersão) — pedidos de participação ativos.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 6 notificações — ex.: grupos de confirmação e respostas negativas.
-- Gmail: 10 notificações — ex.: Wi-Fi NOW, Milesight IoT e Microsoft AI (newsletters, webinars).
-- YouTube: 7 notificações — ex.: fantano — ARE WE DEADASS 😭.
-- Fotos: 3 notificações — ex.: Reparou nos detalhes? 👀.
-- Mensagens: 3 notificações — ex.: Theo Universo Digital — Sony z150 4K, 1.000.000 kz/dia.
-- Instagram: 1 notificação — ex.: Novo seguidor.
-- Messenger: 1, SimpleX: 2, Telefone: 1, Tempo: 1 — alertas e grupos de contato.
+- Gmail: 37 — newsletters (Wi-Fi NOW, Milesight IoT, Microsoft AI Cloud Partner Program) e propostas repetidas.
+- WhatsApp Business: 33 — grupos de confirmação, alertas e "Não quero saber".
+- YouTube: 6 — vídeos virais/de humor (ex.: The WTF Zone, fantano).
+- Fotos: 3 — notificações genéricas "Reparou nos detalhes? 👀".
+- Instagram: 1 — seguidor Romário Marcelo.
+- Mensagens: 3 — Theo Universo Digital (Sony z150, 1.000.000 kz/dia), Africell e notificação de chamada não atendida.
+- Messenger: 1 — funcionalidade de sessão multi-conta.
+- SimpleX: 2 — Linux, hackliberty.org (paypal → ethereum → monero).
+- Telefone: 1 — chamada não atendida.
+- Tempo: 1 — Índice de UV extremo.
