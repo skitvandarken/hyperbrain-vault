@@ -1,4 +1,4 @@
-## [2026-11-25 17:57] Resumo do Ciclo
+## [2026-11-25 18:02] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
 - 09:31 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO — ~ NAIRO POLIGLOTA: 🔗 02- Projecto Fome-Nairo Poliglota - Consequência d… | Sugestão musical: ⏎ CONSEQUÊNCIA DOS 300 ⏎ PROJETO FOME ⏎ https://youtu.be/G_X5JwB5r38?si=-JM90M4hEUzc2p… _(atualização)_
@@ -94,6 +94,7 @@
 - 17:03 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
 - 17:03 [WhatsApp Business] #26 Semana do arquiteto FC (182 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: 🚀Chegamos ao dia mais importante da nossa programação! ⏎ Hoje é dia de colocar a mão na massa, desenvolver agentes de IA capaze… _(atualização)_
 - 17:03 [WhatsApp Business] #17 Imersão FullCycle — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: 🚀Chegamos ao dia mais importante da nossa programação! ⏎ Hoje é dia de colocar a mão na massa, desenvolver agentes de IA capazes de consultar inform… _(atualização)_
+- 18:01 [WhatsApp Business] #17 Imersão FullCycle (2 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: É HOJE, às 19h: Aplicações e Agentes de IA na Prática! 🔥 ⏎ O mercado vai exigir novas competências dos Devs em 2027. E na aula de hoje… _(atualização)_
 
 ### Ruído / Informativo (Agrupado)
 - WhatsApp Business: 67 notificação(ões) — ex.: Não quero saber (8 mensagens) — ~ Filomena Ebo: 📷 Enviou uma foto
