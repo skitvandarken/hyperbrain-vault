@@ -1,4 +1,4 @@
-## [2026-11-25 13:10] Resumo do Ciclo
+## [2026-11-25 13:16] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
 - 09:31 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO — ~ NAIRO POLIGLOTA: 🔗 02- Projecto Fome-Nairo Poliglota - Consequência d… | Sugestão musical: ⏎ CONSEQUÊNCIA DOS 300 ⏎ PROJETO FOME ⏎ https://youtu.be/G_X5JwB5r38?si=-JM90M4hEUzc2p… _(atualização)_
@@ -65,14 +65,16 @@
 - 12:27 [WhatsApp Business] #26 Semana do arquiteto FC (181 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Vai ficar de fora? 🤯 ⏎ A aula de hoje já está rolando: De Dev Tradicional a Dev 10X! ⏎ Ainda dá tempo de participar ao vivo com… _(atualização)_
 - 12:31 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
 - 12:31 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 13:13 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 13:13 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
 
 ### Ruído / Informativo (Agrupado)
 - WhatsApp Business: 35 notificação(ões) — ex.: Não quero saber (8 mensagens) — ~ Filomena Ebo: 📷 Enviou uma foto
-- Gmail: 24 notificação(ões) — ex.: Wi-Fi NOW — Ultra-wideband News: Market set to nearly double by 2030, ABI says | Update: FCC's new rules | UW…
+- Gmail: 31 notificação(ões) — ex.: Wi-Fi NOW — Ultra-wideband News: Market set to nearly double by 2030, ABI says | Update: FCC's new rules | UW…
 - YouTube: 9 notificação(ões) — ex.: fantano — ARE WE DEADASS 😭
 - Fotos: 3 notificação(ões) — ex.: Reparou nos detalhes? — 👀
 - Mensagens: 3 notificação(ões) — ex.: Theo Universo Digital — Sony z150 4K ⏎ Tripe ⏎ Uma bateria de cada ⏎ Fonte de alimentação Elétrica ⏎ 250/cama…
-- SimpleX: 2 notificação(ões) — ex.: Linux — I used it, it's not thorough but it's helped me a lot
+- SimpleX: 3 notificação(ões) — ex.: Linux — I used it, it's not thorough but it's helped me a lot
 - Captura Samsung: 2 notificação(ões) — ex.: Captura de ecrã guardada — Toque aqui para ver a sua captura de ecrã.
 - Instagram: 1 notificação(ões) — ex.: Novo seguidor — Romário Marcelo (romariomarcelo12) começou a seguir você.
 - Messenger: 1 notificação(ões) — ex.: Messenger — Agora podes iniciar sessão em várias contas num telemóvel.
