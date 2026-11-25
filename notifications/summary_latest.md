@@ -1,22 +1,22 @@
-## [2026-11-25 17:00] Resumo do Ciclo
+## [2026-11-25 17:06] Resumo do Ciclo
 
 
 ### Crítico / Ação Necessária
-- Prazo final: Manifestação de Interesse ONGD – Parceiras IRR (Camões), limite 09:00.
-- Suporte VPN: João Da Rosa reporta falha ao tentar entrar (suporte AngolanVPN), envios repetidos.
+- Prazo: Manifestação de Interesse ONGD – Parceiras IRR (Camões), limite 09:00.
+- Falha de login no VPN (AngolanVPN) com envios repetidos — elevar ao suporte; bloqueia entregas.
 
 ### Movimentos Financeiros & Pagamentos
-- Espaço comercial: Condições negociáveis, ~400 mil Kz mensal, forma de pagamento semestral, comissão e taxa estipulada.
-- Apartamento T1 em Maianga: Preço fixo ~500 mil Kz, pagamento trimestral, taxa de visita 5 mil Kz.
+- Espaços/imóveis (WhatsApp Business): proposta de ~400 mil Kz/mes, pagamento semestral, comissão ao cliente, taxa de 4 mil — aberto.
+- Imóvel T-1 Morro-Bento: 120 mil Kz fixo, taxa de visita 4 mil — a confirmar.
+- T1 mobilada na Mainga: ~500 mil Kz, pagamento trimestral, taxa de visita 5 mil — a confirmar.
 
 ### Operacional & Negócio
-- SPACEALL: Propostas recebidas de MadeirArte (Amândio Mateus), Angosat (André Samuel), LC moreno, Big suplementos (Fredy da costa) e Vendas de saldos (Ilídio); ainda sem decisão.
-- Comunidade: GDG Luanda ativo, grupos de discussão e stickers distribuídos.
-- Full Cycle: Aulas ao vivo (Aula 3) e grupos de participação.
-- Marketing/Parcerias: Newsletters Wi-Fi NOW, Milesight IoT, Microsoft AI Cloud Partner, Skilling Hub Events.
+- Propostas SPACEALL (integração privada): produtos por óleo/gás e retalho — decisão humana pendente.
+- Comunidade: GDG Luanda ativa (sorteio de palestras ao vivo, stickers); Imersão FullCycle e Semana do arquiteto FC — grupos de participação em curso.
+- Aluguer/venda de imóveis: WhatsApp Business aberto; parcerias por e-mail aguardam decisão.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: Não quero saber, SÓ BUSINESS (~5804 msgs), GL Services - Catering (~3800), Google Developer Group (~4133), Hip Hop Interno, Roupas do soba 36, OS AMIGOS DO PROPRIO AMOROSO CRITICO,Eládio Lopes (3).
-- Gmail: Wi-Fi NOW, Milesight IoT, Microsoft AI Cloud Partner Program, Skilling Hub Events, A-News (~46 notificações).
-- YouTube: semifinais/shorts de música, comedy, formato funcional.
-- Fotos/Instagram/SimpleX: imagens e notícias recorrentes (3, 1 e 3 notificações resp.).
+- WhatsApp Business: imóveis e negócios recorrentes — SÓ BUSINESS (~5.9 mil), GL Services - Catering (~3.8 mil), Google Developer Group Luanda (~4.1 mil), Roupas do soba 36 (~573); destaque a palestras Full Cycle.
+- Gmail: Wi-Fi NOW, Milesight IoT, Microsoft AI Cloud Partner Program, Skilling Hub Events — newsletters tecnológicas e parcerias.
+- YouTube: canais de comédia/musicas/tech (fantano, Better Stack, Svelte Society, Tesla Gold Rush, etc.).
+- Menções/comum: Telefone — chamada não atendida; Tempo — UV extremo (Quilamba Quiaxi); Messenger/Fotos — mensagens e imagens; SimpleX — Linux, hackliberty.org.
