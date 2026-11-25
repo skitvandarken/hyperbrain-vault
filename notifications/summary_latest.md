@@ -1,4 +1,4 @@
-## [2026-11-25 18:25] Resumo do Ciclo
+## [2026-11-25 18:31] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
 - 09:31 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO — ~ NAIRO POLIGLOTA: 🔗 02- Projecto Fome-Nairo Poliglota - Consequência d… | Sugestão musical: ⏎ CONSEQUÊNCIA DOS 300 ⏎ PROJETO FOME ⏎ https://youtu.be/G_X5JwB5r38?si=-JM90M4hEUzc2p… _(atualização)_
@@ -105,10 +105,10 @@
 - Fotos: 3 notificação(ões) — ex.: Reparou nos detalhes? — 👀
 - Messenger: 3 notificação(ões) — ex.: Messenger — Agora podes iniciar sessão em várias contas num telemóvel.
 - SimpleX: 3 notificação(ões) — ex.: Linux — I used it, it's not thorough but it's helped me a lot
+- Telefone: 2 notificação(ões) — ex.: Chamada não atendida — Jorge Africell
 - Tempo: 2 notificação(ões) — ex.: Quilamba Quiaxi | Índice de UV — UV será extremo. Limite a exposição solar sempre
 - Captura Samsung: 2 notificação(ões) — ex.: Captura de ecrã guardada — Toque aqui para ver a sua captura de ecrã.
 - Mapa da Corrida: 2 notificação(ões) — ex.: Mapa da Corrida — Hora de arrasar no treino de hoje!
 - Instagram: 1 notificação(ões) — ex.: Novo seguidor — Romário Marcelo (romariomarcelo12) começou a seguir você.
-- Telefone: 1 notificação(ões) — ex.: Chamada não atendida — Jorge Africell
 - AngolanVPN: 1 notificação(ões) — ex.: Não ligado
 - Relógio: 1 notificação(ões) — ex.: Desligar o seu alarme previsto?
