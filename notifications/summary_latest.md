@@ -1,22 +1,112 @@
-## [2026-11-25 17:06] Resumo do Ciclo
-
+## [2026-11-25 17:10] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
-- Prazo: Manifestação de Interesse ONGD – Parceiras IRR (Camões), limite 09:00.
-- Falha de login no VPN (AngolanVPN) com envios repetidos — elevar ao suporte; bloqueia entregas.
+- 09:31 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO — ~ NAIRO POLIGLOTA: 🔗 02- Projecto Fome-Nairo Poliglota - Consequência d… | Sugestão musical: ⏎ CONSEQUÊNCIA DOS 300 ⏎ PROJETO FOME ⏎ https://youtu.be/G_X5JwB5r38?si=-JM90M4hEUzc2p… _(atualização)_
+- 12:27 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO — ~ NAIRO POLIGLOTA: 🔗 02- Projecto Fome-Nairo Poliglota - Consequência d… | Sugestão musical: ⏎ CONSEQUÊNCIA DOS 300 ⏎ PROJETO FOME ⏎ https://youtu.be/G_X5JwB5r38?si=-JM90M4hEUzc2p… _(atualização)_
+- 13:21 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO — ~ NAIRO POLIGLOTA: 🔗 02- Projecto Fome-Nairo Poliglota - Consequência d… | Sugestão musical: ⏎ CONSEQUÊNCIA DOS 300 ⏎ PROJETO FOME ⏎ https://youtu.be/G_X5JwB5r38?si=-JM90M4hEUzc2p… _(atualização)_
 
 ### Movimentos Financeiros & Pagamentos
-- Espaços/imóveis (WhatsApp Business): proposta de ~400 mil Kz/mes, pagamento semestral, comissão ao cliente, taxa de 4 mil — aberto.
-- Imóvel T-1 Morro-Bento: 120 mil Kz fixo, taxa de visita 4 mil — a confirmar.
-- T1 mobilada na Mainga: ~500 mil Kz, pagamento trimestral, taxa de visita 5 mil — a confirmar.
+- 08:31 [WhatsApp Business] SÓ BUSINESS 💷💸💵 (5804 mensagens) — ~ Adef Star Winner: 🏯🏯Grande oportunidade para empresários, temos para si de aluguer um espaço comercial que conta:🏯🏯 ⏎ 🧭 Localização: Golf 2 em direção ao Triângulo Antiga fei… _(atualização)_
+- 08:33 [WhatsApp Business] SÓ BUSINESS 💷💸💵 (5804 mensagens) — ~ Adef Star Winner: 🏯🏯Grande oportunidade para empresários, temos para si de aluguer um espaço comercial que conta:🏯🏯 ⏎ 🧭 Localização: Golf 2 em direção ao Triângulo Antiga fei… _(atualização)_
+- 09:09 [WhatsApp Business] SÓ BUSINESS 💷💸💵 (5804 mensagens) — ~ Adef Star Winner: 🏯🏯Grande oportunidade para empresários, temos para si de aluguer um espaço comercial que conta:🏯🏯 ⏎ 🧭 Localização: Golf 2 em direção ao Triângulo Antiga fei… _(atualização)_
+- 09:13 [WhatsApp Business] SÓ BUSINESS 💷💸💵 (5804 mensagens) — ~ Adef Star Winner: 🏯🏯Grande oportunidade para empresários, temos para si de aluguer um espaço comercial que conta:🏯🏯 ⏎ 🧭 Localização: Golf 2 em direção ao Triângulo Antiga fei… _(atualização)_
+- 15:15 [WhatsApp Business] SÓ BUSINESS 💷💸💵 (5953 mensagens) — ~ Adef Star Winner: 🤝🏠 ARRENDA-SE APARTAMENTO T1 MOBILADO NA MAIANGA ⏎ Direito sem voltas Aninix tavares ⏎ 📍 Localização: Maianga, em frente à Pediatria. ⏎ 💰 Preço: 500.000 Kz ⏎… _(atualização)_
 
 ### Operacional & Negócio
-- Propostas SPACEALL (integração privada): produtos por óleo/gás e retalho — decisão humana pendente.
-- Comunidade: GDG Luanda ativa (sorteio de palestras ao vivo, stickers); Imersão FullCycle e Semana do arquiteto FC — grupos de participação em curso.
-- Aluguer/venda de imóveis: WhatsApp Business aberto; parcerias por e-mail aguardam decisão.
+- 08:31 [Agenda] Prazo Final: Manifestação de Interesse ONGD – Parceiras IRR (Camões) — 09:00 ⏎ Camões – Centro Cultural Português em Luanda, Av. de Portugal 50, Luanda, Angola
+- 08:31 [Gmail] Baspro Baspro — [Solici…] Angosat - André Samuel ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: André Samuel ⏎ Empresa: Angosat ⏎ E-mail Corporativo: basprobaspro82@gmail.com ⏎ Telef… _(atualização)_
+- 08:31 [Gmail] João Da Rosa — Suporte AngolanVPN ⏎ Nao estou a conseguir entrar
+- 08:31 [Gmail] Amândio Matheus — [Solici…] MadeirArte - Amândio Mateus ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Amândio Mateus ⏎ Empresa: MadeirArte ⏎ E-mail Corporativo: marceneiroamandiomat…
+- 08:31 [Gmail] Amândio Matheus — [Solici…] MadeirArte - Amândio Mateus ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Amândio Mateus ⏎ Empresa: MadeirArte ⏎ E-mail Corporativo: marceneiroamandiomat…
+- 08:31 [WhatsApp Business] #26 Semana do arquiteto FC (181 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Vai ficar de fora? 🤯 ⏎ A aula de hoje já está rolando: De Dev Tradicional a Dev 10X! ⏎ Ainda dá tempo de participar ao vivo com… _(atualização)_
+- 08:31 [WhatsApp Business] #17 Imersão FullCycle (208 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Vai ficar de fora? 🤯 ⏎ A aula de hoje já está rolando: De Dev Tradicional a Dev 10X! ⏎ Ainda dá tempo de participar ao vivo com a ge… _(atualização)_
+- 08:33 [Gmail] Amândio Matheus — [Solici…] MadeirArte - Amândio Mateus ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Amândio Mateus ⏎ Empresa: MadeirArte ⏎ E-mail Corporativo: marceneiroamandiomat… _(atualização)_
+- 08:33 [Gmail] Noé Rich — Suporte AngolanVPN ⏎ www.google.com _(atualização)_
+- 08:33 [Gmail] Moisés LC Moreno — [Solici…] LC moreno - moreno ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: moreno ⏎ Empresa: LC moreno ⏎ E-mail Corporativo: moiseslcmoreno11@gmail.com ⏎ Telefone… _(atualização)_
+- 08:33 [Gmail] Fredy Da costa — [Solici…] Big suplementos - Fredy da costa ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Fredy da costa ⏎ Empresa: Big suplementos ⏎ E-mail Corporativo: fredydacost… _(atualização)_
+- 08:33 [Gmail] Baspro Baspro — [Solici…] Angosat - André Samuel ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: André Samuel ⏎ Empresa: Angosat ⏎ E-mail Corporativo: basprobaspro82@gmail.com ⏎ Telef… _(atualização)_
+- 08:33 [Gmail] Ilídio António Luemba Julio — [Solici…] Vendas de saldos - Ilídio ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Ilídio ⏎ Empresa: Vendas de saldos ⏎ E-mail Corporativo: ilidioantoni… _(atualização)_
+- 08:33 [Gmail] Amândio Matheus — [Solici…] MadeirArte - Amândio Mateus ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Amândio Mateus ⏎ Empresa: MadeirArte ⏎ E-mail Corporativo: marceneiroamandiomat… _(atualização)_
+- 08:33 [Gmail] João Da Rosa — Suporte AngolanVPN ⏎ Nao estou a conseguir entrar _(atualização)_
+- 08:33 [WhatsApp Business] #26 Semana do arquiteto FC (181 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Vai ficar de fora? 🤯 ⏎ A aula de hoje já está rolando: De Dev Tradicional a Dev 10X! ⏎ Ainda dá tempo de participar ao vivo com… _(atualização)_
+- 08:33 [WhatsApp Business] #17 Imersão FullCycle (208 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Vai ficar de fora? 🤯 ⏎ A aula de hoje já está rolando: De Dev Tradicional a Dev 10X! ⏎ Ainda dá tempo de participar ao vivo com a ge… _(atualização)_
+- 09:09 [Gmail] Amândio Matheus — [Solici…] MadeirArte - Amândio Mateus ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Amândio Mateus ⏎ Empresa: MadeirArte ⏎ E-mail Corporativo: marceneiroamandiomat… _(atualização)_
+- 09:09 [Gmail] Ilídio António Luemba Julio — [Solici…] Vendas de saldos - Ilídio ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Ilídio ⏎ Empresa: Vendas de saldos ⏎ E-mail Corporativo: ilidioantoni… _(atualização)_
+- 09:09 [Gmail] Moisés LC Moreno — [Solici…] LC moreno - moreno ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: moreno ⏎ Empresa: LC moreno ⏎ E-mail Corporativo: moiseslcmoreno11@gmail.com ⏎ Telefone… _(atualização)_
+- 09:09 [Gmail] Amândio Matheus — [Solici…] MadeirArte - Amândio Mateus ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Amândio Mateus ⏎ Empresa: MadeirArte ⏎ E-mail Corporativo: marceneiroamandiomat… _(atualização)_
+- 09:09 [Gmail] Baspro Baspro — [Solici…] Angosat - André Samuel ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: André Samuel ⏎ Empresa: Angosat ⏎ E-mail Corporativo: basprobaspro82@gmail.com ⏎ Telef… _(atualização)_
+- 09:09 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
+- 09:09 [Gmail] João Da Rosa — Suporte AngolanVPN ⏎ Nao estou a conseguir entrar _(atualização)_
+- 09:09 [Gmail] Fredy Da costa — [Solici…] Big suplementos - Fredy da costa ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Fredy da costa ⏎ Empresa: Big suplementos ⏎ E-mail Corporativo: fredydacost… _(atualização)_
+- 09:09 [Gmail] Noé Rich — Suporte AngolanVPN ⏎ www.google.com _(atualização)_
+- 09:09 [WhatsApp Business] #17 Imersão FullCycle (208 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Vai ficar de fora? 🤯 ⏎ A aula de hoje já está rolando: De Dev Tradicional a Dev 10X! ⏎ Ainda dá tempo de participar ao vivo com a ge… _(atualização)_
+- 09:09 [WhatsApp Business] #26 Semana do arquiteto FC (181 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Vai ficar de fora? 🤯 ⏎ A aula de hoje já está rolando: De Dev Tradicional a Dev 10X! ⏎ Ainda dá tempo de participar ao vivo com… _(atualização)_
+- 09:11 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
+- 09:13 [Gmail] Amândio Matheus — [Solici…] MadeirArte - Amândio Mateus ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Amândio Mateus ⏎ Empresa: MadeirArte ⏎ E-mail Corporativo: marceneiroamandiomat… _(atualização)_
+- 09:13 [Gmail] Ilídio António Luemba Julio — [Solici…] Vendas de saldos - Ilídio ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Ilídio ⏎ Empresa: Vendas de saldos ⏎ E-mail Corporativo: ilidioantoni… _(atualização)_
+- 09:13 [Gmail] Moisés LC Moreno — [Solici…] LC moreno - moreno ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: moreno ⏎ Empresa: LC moreno ⏎ E-mail Corporativo: moiseslcmoreno11@gmail.com ⏎ Telefone… _(atualização)_
+- 09:13 [Gmail] Amândio Matheus — [Solici…] MadeirArte - Amândio Mateus ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Amândio Mateus ⏎ Empresa: MadeirArte ⏎ E-mail Corporativo: marceneiroamandiomat… _(atualização)_
+- 09:13 [Gmail] Baspro Baspro — [Solici…] Angosat - André Samuel ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: André Samuel ⏎ Empresa: Angosat ⏎ E-mail Corporativo: basprobaspro82@gmail.com ⏎ Telef… _(atualização)_
+- 09:13 [Gmail] João Da Rosa — Suporte AngolanVPN ⏎ Nao estou a conseguir entrar _(atualização)_
+- 09:13 [Gmail] Fredy Da costa — [Solici…] Big suplementos - Fredy da costa ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Fredy da costa ⏎ Empresa: Big suplementos ⏎ E-mail Corporativo: fredydacost… _(atualização)_
+- 09:13 [Gmail] Noé Rich — Suporte AngolanVPN ⏎ www.google.com _(atualização)_
+- 09:13 [WhatsApp Business] #17 Imersão FullCycle (208 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Vai ficar de fora? 🤯 ⏎ A aula de hoje já está rolando: De Dev Tradicional a Dev 10X! ⏎ Ainda dá tempo de participar ao vivo com a ge… _(atualização)_
+- 09:13 [WhatsApp Business] #26 Semana do arquiteto FC (181 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Vai ficar de fora? 🤯 ⏎ A aula de hoje já está rolando: De Dev Tradicional a Dev 10X! ⏎ Ainda dá tempo de participar ao vivo com… _(atualização)_
+- 10:01 [WhatsApp Business] Google Developer Group(GDG)- Luanda (4112 mensagens) — Ildeberto Vasconcelos: uma visao mt pessimista, nn vamos por ai ⏎ o colega pretende entrar pra a àrea e ja queremos lhe desmotivar, ⏎ sendo que a proposta de comuni… _(atualização)_
+- 12:01 [Agenda] Prazo Final: Manifestação de Interesse ONGD – Parceiras IRR (Camões) — 09:00 _(atualização)_
+- 12:27 [Gmail] Noé Rich — Suporte AngolanVPN ⏎ www.google.com _(atualização)_
+- 12:27 [Gmail] Amândio Matheus — [Solici…] MadeirArte - Amândio Mateus ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Amândio Mateus ⏎ Empresa: MadeirArte ⏎ E-mail Corporativo: marceneiroamandiomat… _(atualização)_
+- 12:27 [Gmail] Ilídio António Luemba Julio — [Solici…] Vendas de saldos - Ilídio ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Ilídio ⏎ Empresa: Vendas de saldos ⏎ E-mail Corporativo: ilidioantoni… _(atualização)_
+- 12:27 [Gmail] Moisés LC Moreno — [Solici…] LC moreno - moreno ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: moreno ⏎ Empresa: LC moreno ⏎ E-mail Corporativo: moiseslcmoreno11@gmail.com ⏎ Telefone… _(atualização)_
+- 12:27 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
+- 12:27 [Gmail] Baspro Baspro — [Solici…] Angosat - André Samuel ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: André Samuel ⏎ Empresa: Angosat ⏎ E-mail Corporativo: basprobaspro82@gmail.com ⏎ Telef… _(atualização)_
+- 12:27 [Gmail] Amândio Matheus — [Solici…] MadeirArte - Amândio Mateus ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Amândio Mateus ⏎ Empresa: MadeirArte ⏎ E-mail Corporativo: marceneiroamandiomat… _(atualização)_
+- 12:27 [Gmail] João Da Rosa — Suporte AngolanVPN ⏎ Nao estou a conseguir entrar _(atualização)_
+- 12:27 [Gmail] Fredy Da costa — [Solici…] Big suplementos - Fredy da costa ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Fredy da costa ⏎ Empresa: Big suplementos ⏎ E-mail Corporativo: fredydacost… _(atualização)_
+- 12:27 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 12:27 [WhatsApp Business] #26 Semana do arquiteto FC (181 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Vai ficar de fora? 🤯 ⏎ A aula de hoje já está rolando: De Dev Tradicional a Dev 10X! ⏎ Ainda dá tempo de participar ao vivo com… _(atualização)_
+- 12:31 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
+- 12:31 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 13:13 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 13:13 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
+- 13:19 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 13:19 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
+- 13:21 [WhatsApp Business] #26 Semana do arquiteto FC (181 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Vai ficar de fora? 🤯 ⏎ A aula de hoje já está rolando: De Dev Tradicional a Dev 10X! ⏎ Ainda dá tempo de participar ao vivo com… _(atualização)_
+- 13:27 [WhatsApp Business] #17 Imersão FullCycle — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: 🚀Chegamos ao dia mais importante da nossa programação! ⏎ Hoje é dia de colocar a mão na massa, desenvolver agentes de IA capazes de consultar inform… _(atualização)_
+- 13:33 [WhatsApp Business] #26 Semana do arquiteto FC (182 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: 🚀Chegamos ao dia mais importante da nossa programação! ⏎ Hoje é dia de colocar a mão na massa, desenvolver agentes de IA capaze… _(atualização)_
+- 14:35 [Gmail] Baspro Baspro — [Solici…] Angosat - André Samuel ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: André Samuel ⏎ Empresa: Angosat ⏎ E-mail Corporativo: basprobaspro82@gmail.com ⏎ Telef… _(atualização)_
+- 15:29 [Gmail] Leonardo Nunes Zeferino — Suporte AngolanVPN ⏎ Leonardo Nunes Zeferino @gmail.com
+- 15:29 [Gmail] Leonardo Nunes Zeferino — Suporte AngolanVPN ⏎ Como ativar o VPN
+- 15:53 [Gmail] Fredy Da costa — [Solici…] Big suplementos - Fredy da costa ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Fredy da costa ⏎ Empresa: Big suplementos ⏎ E-mail Corporativo: fredydacost… _(atualização)_
+- 16:53 [Gmail] Leonardo Nunes Zeferino — Suporte AngolanVPN ⏎ Leonardo Nunes Zeferino @gmail.com _(atualização)_
+- 16:53 [Gmail] Leonardo Nunes Zeferino — Suporte AngolanVPN ⏎ Como ativar o VPN _(atualização)_
+- 16:53 [Gmail] Baspro Baspro — [Solici…] Angosat - André Samuel ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: André Samuel ⏎ Empresa: Angosat ⏎ E-mail Corporativo: basprobaspro82@gmail.com ⏎ Telef… _(atualização)_
+- 16:53 [Gmail] Fredy Da costa — [Solici…] Big suplementos - Fredy da costa ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Fredy da costa ⏎ Empresa: Big suplementos ⏎ E-mail Corporativo: fredydacost… _(atualização)_
+- 16:53 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 16:53 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
+- 16:53 [WhatsApp Business] #26 Semana do arquiteto FC (182 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: 🚀Chegamos ao dia mais importante da nossa programação! ⏎ Hoje é dia de colocar a mão na massa, desenvolver agentes de IA capaze… _(atualização)_
+- 16:53 [WhatsApp Business] #17 Imersão FullCycle — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: 🚀Chegamos ao dia mais importante da nossa programação! ⏎ Hoje é dia de colocar a mão na massa, desenvolver agentes de IA capazes de consultar inform… _(atualização)_
+- 17:03 [Gmail] Leonardo Nunes Zeferino — Suporte AngolanVPN ⏎ Leonardo Nunes Zeferino @gmail.com _(atualização)_
+- 17:03 [Gmail] Leonardo Nunes Zeferino — Suporte AngolanVPN ⏎ Como ativar o VPN _(atualização)_
+- 17:03 [Gmail] Baspro Baspro — [Solici…] Angosat - André Samuel ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: André Samuel ⏎ Empresa: Angosat ⏎ E-mail Corporativo: basprobaspro82@gmail.com ⏎ Telef… _(atualização)_
+- 17:03 [Gmail] Fredy Da costa — [Solici…] Big suplementos - Fredy da costa ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Fredy da costa ⏎ Empresa: Big suplementos ⏎ E-mail Corporativo: fredydacost… _(atualização)_
+- 17:03 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 17:03 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
+- 17:03 [WhatsApp Business] #26 Semana do arquiteto FC (182 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: 🚀Chegamos ao dia mais importante da nossa programação! ⏎ Hoje é dia de colocar a mão na massa, desenvolver agentes de IA capaze… _(atualização)_
+- 17:03 [WhatsApp Business] #17 Imersão FullCycle — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: 🚀Chegamos ao dia mais importante da nossa programação! ⏎ Hoje é dia de colocar a mão na massa, desenvolver agentes de IA capazes de consultar inform… _(atualização)_
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: imóveis e negócios recorrentes — SÓ BUSINESS (~5.9 mil), GL Services - Catering (~3.8 mil), Google Developer Group Luanda (~4.1 mil), Roupas do soba 36 (~573); destaque a palestras Full Cycle.
-- Gmail: Wi-Fi NOW, Milesight IoT, Microsoft AI Cloud Partner Program, Skilling Hub Events — newsletters tecnológicas e parcerias.
-- YouTube: canais de comédia/musicas/tech (fantano, Better Stack, Svelte Society, Tesla Gold Rush, etc.).
-- Menções/comum: Telefone — chamada não atendida; Tempo — UV extremo (Quilamba Quiaxi); Messenger/Fotos — mensagens e imagens; SimpleX — Linux, hackliberty.org.
+- WhatsApp Business: 64 notificação(ões) — ex.: Não quero saber (8 mensagens) — ~ Filomena Ebo: 📷 Enviou uma foto
+- Gmail: 56 notificação(ões) — ex.: Wi-Fi NOW — Ultra-wideband News: Market set to nearly double by 2030, ABI says | Update: FCC's new rules | UW…
+- YouTube: 12 notificação(ões) — ex.: fantano — ARE WE DEADASS 😭
+- Fotos: 3 notificação(ões) — ex.: Reparou nos detalhes? — 👀
+- Mensagens: 3 notificação(ões) — ex.: Theo Universo Digital — Sony z150 4K ⏎ Tripe ⏎ Uma bateria de cada ⏎ Fonte de alimentação Elétrica ⏎ 250/cama…
+- Messenger: 3 notificação(ões) — ex.: Messenger — Agora podes iniciar sessão em várias contas num telemóvel.
+- SimpleX: 3 notificação(ões) — ex.: Linux — I used it, it's not thorough but it's helped me a lot
+- Tempo: 2 notificação(ões) — ex.: Quilamba Quiaxi | Índice de UV — UV será extremo. Limite a exposição solar sempre
+- Captura Samsung: 2 notificação(ões) — ex.: Captura de ecrã guardada — Toque aqui para ver a sua captura de ecrã.
+- Instagram: 1 notificação(ões) — ex.: Novo seguidor — Romário Marcelo (romariomarcelo12) começou a seguir você.
+- Telefone: 1 notificação(ões) — ex.: Chamada não atendida — Jorge Africell
+- AngolanVPN: 1 notificação(ões) — ex.: Não ligado
+- Relógio: 1 notificação(ões) — ex.: Desligar o seu alarme previsto?
+- Mapa da Corrida: 1 notificação(ões) — ex.: Mapa da Corrida — Hora de arrasar no treino de hoje!
