@@ -1,4 +1,4 @@
-## [2026-11-25 16:47] Resumo do Ciclo
+## [2026-11-25 16:54] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
 - 09:31 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO — ~ NAIRO POLIGLOTA: 🔗 02- Projecto Fome-Nairo Poliglota - Consequência d… | Sugestão musical: ⏎ CONSEQUÊNCIA DOS 300 ⏎ PROJETO FOME ⏎ https://youtu.be/G_X5JwB5r38?si=-JM90M4hEUzc2p… _(atualização)_
@@ -78,15 +78,23 @@
 - 15:29 [Gmail] Leonardo Nunes Zeferino — Suporte AngolanVPN ⏎ Leonardo Nunes Zeferino @gmail.com
 - 15:29 [Gmail] Leonardo Nunes Zeferino — Suporte AngolanVPN ⏎ Como ativar o VPN
 - 15:53 [Gmail] Fredy Da costa — [Solici…] Big suplementos - Fredy da costa ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Fredy da costa ⏎ Empresa: Big suplementos ⏎ E-mail Corporativo: fredydacost… _(atualização)_
+- 16:53 [Gmail] Leonardo Nunes Zeferino — Suporte AngolanVPN ⏎ Leonardo Nunes Zeferino @gmail.com _(atualização)_
+- 16:53 [Gmail] Leonardo Nunes Zeferino — Suporte AngolanVPN ⏎ Como ativar o VPN _(atualização)_
+- 16:53 [Gmail] Baspro Baspro — [Solici…] Angosat - André Samuel ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: André Samuel ⏎ Empresa: Angosat ⏎ E-mail Corporativo: basprobaspro82@gmail.com ⏎ Telef… _(atualização)_
+- 16:53 [Gmail] Fredy Da costa — [Solici…] Big suplementos - Fredy da costa ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: Fredy da costa ⏎ Empresa: Big suplementos ⏎ E-mail Corporativo: fredydacost… _(atualização)_
+- 16:53 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 16:53 [Gmail] Microsoft AI Cloud Partner Program — Make your marketing investments work harder in FY27 ⏎ Put co-op to work and discover new ways to build stronger campaigns. ⏎ Está a ter problemas com a visualização deste e-mail? | V… _(atualização)_
+- 16:53 [WhatsApp Business] #26 Semana do arquiteto FC (182 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: 🚀Chegamos ao dia mais importante da nossa programação! ⏎ Hoje é dia de colocar a mão na massa, desenvolver agentes de IA capaze… _(atualização)_
+- 16:53 [WhatsApp Business] #17 Imersão FullCycle — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: 🚀Chegamos ao dia mais importante da nossa programação! ⏎ Hoje é dia de colocar a mão na massa, desenvolver agentes de IA capazes de consultar inform… _(atualização)_
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 54 notificação(ões) — ex.: Não quero saber (8 mensagens) — ~ Filomena Ebo: 📷 Enviou uma foto
-- Gmail: 39 notificação(ões) — ex.: Wi-Fi NOW — Ultra-wideband News: Market set to nearly double by 2030, ABI says | Update: FCC's new rules | UW…
+- WhatsApp Business: 59 notificação(ões) — ex.: Não quero saber (8 mensagens) — ~ Filomena Ebo: 📷 Enviou uma foto
+- Gmail: 44 notificação(ões) — ex.: Wi-Fi NOW — Ultra-wideband News: Market set to nearly double by 2030, ABI says | Update: FCC's new rules | UW…
 - YouTube: 12 notificação(ões) — ex.: fantano — ARE WE DEADASS 😭
 - Fotos: 3 notificação(ões) — ex.: Reparou nos detalhes? — 👀
 - Mensagens: 3 notificação(ões) — ex.: Theo Universo Digital — Sony z150 4K ⏎ Tripe ⏎ Uma bateria de cada ⏎ Fonte de alimentação Elétrica ⏎ 250/cama…
+- Messenger: 3 notificação(ões) — ex.: Messenger — Agora podes iniciar sessão em várias contas num telemóvel.
 - SimpleX: 3 notificação(ões) — ex.: Linux — I used it, it's not thorough but it's helped me a lot
-- Messenger: 2 notificação(ões) — ex.: Messenger — Agora podes iniciar sessão em várias contas num telemóvel.
 - Captura Samsung: 2 notificação(ões) — ex.: Captura de ecrã guardada — Toque aqui para ver a sua captura de ecrã.
 - Instagram: 1 notificação(ões) — ex.: Novo seguidor — Romário Marcelo (romariomarcelo12) começou a seguir você.
 - Telefone: 1 notificação(ões) — ex.: Chamada não atendida — Jorge Africell
