@@ -1,4 +1,4 @@
-## [2026-11-25 21:07] Resumo do Ciclo
+## [2026-11-25 21:13] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
 - 09:31 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO — ~ NAIRO POLIGLOTA: 🔗 02- Projecto Fome-Nairo Poliglota - Consequência d… | Sugestão musical: ⏎ CONSEQUÊNCIA DOS 300 ⏎ PROJETO FOME ⏎ https://youtu.be/G_X5JwB5r38?si=-JM90M4hEUzc2p… _(atualização)_
@@ -103,6 +103,7 @@
 - 20:28 [Gmail] 18 mensagens novas _(atualização)_
 - 20:28 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
 - 20:28 [Gmail] Google — Partilhou alguns dados da Conta Google com a app Ollama ⏎ Acompanhe os dados da sua Conta Google ⏎ fluxodigital2017@gmail.com ⏎ Recebeu este email porque usou a funcionalidade Iniciar sessão com a Google para i… _(atualização)_
+- 21:08 [WhatsApp Business] #17 Imersão FullCycle (3 mensagens) — ~ Equipe Full Cycle: 📷 ⏰ Começa DAQUI A POUCO, às 19h! ⏎ Hoje é dia de mão na massa: você vai ver, na prática, como desenvolver agentes de IA e integrá-los às suas aplicações. ⏎ É… _(atualização)_
 
 ### Ruído / Informativo (Agrupado)
 - WhatsApp Business: 77 notificação(ões) — ex.: Não quero saber (8 mensagens) — ~ Filomena Ebo: 📷 Enviou uma foto
