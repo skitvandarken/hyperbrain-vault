@@ -1,24 +1,25 @@
-## [2026-11-26 13:36] Resumo do Ciclo
+## [2026-11-26 13:49] Resumo do Ciclo
+
 
 ### Crítico / Ação Necessária
-_(nada a assinalar)_
+- Google Play: armazenamento da conta a 100%; aviso de risco de falha no backup e interrupções no Gmail; libertar espaço ou aumentar armazenamento.
 
 ### Movimentos Financeiros & Pagamentos
-- 13:14 [Multicaixa] Pagamento de Serviço — Com valor de 2.000,00 (Kz) efetuado com sucesso
-- 13:14 [Multicaixa] Transferência entre cartões — Transferência de 2.000,00 (Kz) efetuada com sucesso
+- 13:14 Multicaixa · Pagamento de Serviço · 2.000,00 Kz · efetuado com sucesso · contraparte não identificada no log.
+- 13:14 Multicaixa · Transferência entre cartões · 2.000,00 Kz · efetuada com sucesso · cartões e contas omitidos.
 
 ### Operacional & Negócio
-- 13:14 [Gmail] 8 mensagens novas _(atualização)_
-- 13:14 [Mensagens] Africell — Caro cliente, recebeu o valor de 5GB(7D) da Africell. Obrigado. _(atualização)_
-- 13:18 [WhatsApp Business] #17 Imersão FullCycle (5 mensagens) — ~ Equipe Full Cycle: 📷 🚨 Vai mesmo ficar de fora da aula mais esperada da semana? ⏎ Hoje encerramos nossa série com uma aula prática sobre aplicações e agentes de IA. ⏎ Ainda dá t… _(atualização)_
+- Telecom · Africell: recebimento de 5GB válido por 7 dias (5GB(7D)); sem montante monetário no log.
+- Proposta comercial · Mensagens: kit câmara Sony z150 4K, tripé, bateria e fonte; preço indicado 1.000.000 Kz/dia; não é movimento financeiro.
+- Formação · WhatsApp Business #17 Imersão FullCycle: última aula prática sobre aplicações/agentes de IA; convite no grupo.
+- Comercial · grupo AceNatinBusiness-Comercial: pergunta "Pagas quanto?"; sem resposta no log.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 7 notificação(ões) — ex.: Roupas do soba 36 (576 mensagens) — Moço Da Roupa Hoja Yenda: 🎥 Enviou um vídeo (0:43)
-- YouTube: 5 notificação(ões) — ex.: Stu Bangas — Who would Body this ?? Grimy Boombap Beat - “The Visual” - Stu Bangas
-- Gmail: 2 notificação(ões) — ex.: Wi-Fi NOW — Ultra-wideband News: Market set to nearly double by 2030, ABI says | Update: FCC's new rules | UW…
-- Mensagens: 2 notificação(ões) — ex.: Jorge Africell — O numero +244952538114 tentou contactar-lhe 24.11.2026 ,18:39.
-- Fotos: 1 notificação(ões) — ex.: Eu 🗺️ — Memória a revelar-se
-- Instagram: 1 notificação(ões) — ex.: galocinzento — Enviou-te o seu reel
-- Mapa da Corrida: 1 notificação(ões) — ex.: Mapa da Corrida — É hora de Mapa da Corrida. Vamos começar!
-- Serviços do Google Play: 1 notificação(ões) — ex.: O armazenamento da conta está 100% cheio — Precisa de mais armazenamento para fazer uma cópia de segurança do…
-- SimpleX: 1 notificação(ões) — ex.: hackliberty.org — Tor Project has always been woke, heck half the devs are hippies at burning man. All friend…
+- Fotos: 1 notificação · ex.: memória/atualização.
+- Gmail: 3 notificações · ex.: newsletters e aviso de 8 novas mensagens.
+- Instagram: 1 notificação · ex.: reel recebido.
+- Mapa da Corrida: 1 notificação · ex.: convite para iniciar atividade.
+- Mensagens: 1 notificação · ex.: tentativa de contacto/chamada perdida; número omitido.
+- SimpleX: 1 notificação · ex.: comentário com link.
+- YouTube: 5 notificações · ex.: vídeos recomendados.
+- WhatsApp Business: 6 notificações · ex.: grupos com mensagens sem tarefa clara.
