@@ -1,4 +1,4 @@
-## [2026-11-26 16:52] Resumo do Ciclo
+## [2026-11-26 16:57] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
 _(nada a assinalar)_
@@ -20,10 +20,11 @@ _(nada a assinalar)_
 - 16:42 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
 - 16:42 [Gmail] github-actions[bot] — Re: [spaceallcorp/tceu] SEC-2026-11-24: Remove Firebase/Auth0 credentials from the public repository (Issue #9) ⏎ Timestamp: 2026-11-24T15:13:07.201ZYou are receiving this because you modified the…
 - 16:42 [Gmail] Stack Overflow — Issue 356: Agents can do it all for us ⏎ Agentic search, hijacked Bitlys, and the future for chipmakers ⏎ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏… _(atualização)_
+- 16:56 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
 
 ### Ruído / Informativo (Agrupado)
+- Gmail: 19 notificação(ões) — ex.: Wi-Fi NOW — Ultra-wideband News: Market set to nearly double by 2030, ABI says | Update: FCC's new rules | UW…
 - WhatsApp Business: 15 notificação(ões) — ex.: Roupas do soba 36 (576 mensagens) — Moço Da Roupa Hoja Yenda: 🎥 Enviou um vídeo (0:43)
-- Gmail: 14 notificação(ões) — ex.: Wi-Fi NOW — Ultra-wideband News: Market set to nearly double by 2030, ABI says | Update: FCC's new rules | UW…
 - YouTube: 9 notificação(ões) — ex.: Stu Bangas — Who would Body this ?? Grimy Boombap Beat - “The Visual” - Stu Bangas
 - Mensagens: 5 notificação(ões) — ex.: Jorge Africell — O numero +244952538114 tentou contactar-lhe 24.11.2026 ,18:39.
 - Fotos: 1 notificação(ões) — ex.: Eu 🗺️ — Memória a revelar-se
