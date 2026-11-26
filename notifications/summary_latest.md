@@ -1,38 +1,39 @@
-## [2026-11-26 21:01] Resumo do Ciclo
-
+## [2026-11-26 21:05] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
-- Conta cloud suspensa por saldo insuficiente; máquinas/clusters parados; recarregar carteira até 28/11/2026 22:07; dados preservados.
-- Segredos expostos em repo público: Google API key (base64) + credenciais Firebase/Auth0; revogar/rotacionar e limpar histórico (GitGuardian + SEC-2026-11-24).
-- Campanha redes sociais com prazo amanhã; subsidiárias em risco; critério % (25 vs 35%) e alinhamento por decidir; preparar documento.
-- Google Play: armazenamento 100% cheio; backup Gmail/segurança em risco; libertar espaço ou adicionar armazenamento.
-
+- Conta cloud suspensa por saldo insuficiente; máquinas/clusters parados; acesso limitado à carteira; recarregar até 28/11/2026 22:07; dados preservados.
+- GitGuardian: chave Google API exposta em base64 em repo público; revogar/rotacionar segredo, remover do repo e limpar histórico.
+- SEC-2026-11-24: credenciais Firebase/Auth0 expostas em repo público; revogar/rotacionar e remover; ação humana urgente.
+- Issue ISO 27001 + ISO 9001 sobre rastreabilidade de change management; requer revisão/ação humana.
+- Campanha redes sociais com prazo amanhã; subsidiárias em risco; decidir critério 25% vs 35% e preparar documento.
+- Google Play: armazenamento da conta 100% cheio; backup e Gmail podem ser interrompidos; libertar espaço ou adicionar armazenamento.
+- Cliente a pedir email não recebido; resposta humana pendente.
+- Pedido de suporte AngolanVPN sobre saldo; resposta humana pendente.
 ### Movimentos Financeiros & Pagamentos
-- 13:14 Multicaixa — Pagamento de Serviço; 2.000,00 Kz; via cartão Multicaixa; estado: sucesso.
-- 13:14 Multicaixa — Transferência entre cartões; 2.000,00 Kz; origem/destino entre cartões próprios (dados redigidos); estado: sucesso.
-- 16:42 conta cloud (suporte) — carteira/faturação; -1301,40 USD; regularizar até 21/11/2026 23:00; estado saldo negativo/suspensa; recarregar carteira.
-- 20:46 Multicaixa — Transferência entre cartões; 250,00 Kz; origem/destino entre cartões próprios; estado: sucesso.
-
+- 13:14 Multicaixa — Pagamento de Serviço; 2.000,00 Kz; origem/destino não especificados; estado: sucesso.
+- 13:14 Multicaixa — Transferência entre cartões; 2.000,00 Kz; origem/destino não especificados; estado: sucesso.
+- 16:42 Gmail/support [FINANCEIRO] — saldo -1301,40 USD; carregar carteira; prazo 21/11/2026 23:00 Luanda; saldo negativo.
+- 20:46 Multicaixa — Transferência entre cartões; 250,00 Kz; origem/destino não especificados; estado: sucesso.
 ### Operacional & Negócio
-- Redes sociais (Teams): campanha só Angola + alinhamento mais alargado c/ subsidiárias/Business Developers; email marketing a rever; documento amanhã; Walter Fernandes, Rebeca Monteiro.
-- Marketing digital (Teams): recap Digital Summit Angola 2026 24-25/11; correção marca: comunicação Angola Cables, não go4IA/Digital Solutions (José Kayesse).
-- Reunião Weekly MKT & TelCables South Africa (Teams): gravação para 2 min; re-invite para continuar.
-- Evento (Teams AC Angola): caminhada ao pôr do sol 04/12 cancelada.
-- Políticas Discord (Gmail): termos/privacidade/serviços pagos atualizados; efetivo 15/12/2026; rever.
-- Proposta comercial (Mensagens): equipamento vídeo 4K (câmara+tripé+bateria+fonte); valor indicado 1.000.000 Kz/dia; proposta pendente.
-- Cliente pendente (WhatsApp Business): mensagem "não recebi o Email..." sem resposta (15:06).
-
+- Redes sociais: campanha só Angola; alinhamento com subsidiárias/Business Developers; email marketing a rever; cada TC publica na própria página.
+- Redes sociais: Walter Fernandes sugere documento amanhã com Rosema Matias; Marinela recebeu questões; evitar desalinhamento Comunicação/Imagem.
+- Marketing digital/vertical: recap Digital Summit Angola 2026 24-25/11; Vita Ngombo; marca Angola Cables, não go4IA/Digital Solutions.
+- José Kayesse pediu formalizar pedidos por e-mail para organizar demanda; não repetir endereço de e-mail.
+- Weekly Meeting MKT & TelCables South Africa: gravação para 2 min; re-invite para continuar.
+- Evento AC Angola: caminhada ao pôr do sol reagendada para 04/12 foi cancelada.
+- Discord: termos/privacidade/serviços pagos atualizados; efetivo 15/12/2026; rever políticas.
+- Proposta comercial: equipamento vídeo 4K (câmara+tripé+bateria+fonte) X4; valor indicado 1.000.000 Kz/dia; pendente.
 ### Ruído / Informativo (Agrupado)
-- Gmail: 42 notificação(ões) — ex.: Wi-Fi NOW/UWB newsletters repetidas; marketing diverso
-- WhatsApp Business: 26 notificação(ões) — ex.: actividade em grupos comerciais, promo e mídia
-- YouTube: 15 notificação(ões) — ex.: vídeos recomendados (Better Stack, Stu Bangas...)
-- Mensagens: 5 notificação(ões) — ex.: UNITEL avisos saldo/bónus; conteúdo sensível ocultado
-- SimpleX: 3 notificação(ões) — ex.: notícias tech/open-source
-- Mapa da Corrida: 3 notificação(ões) — ex.: lembretes de treino
-- Teams: 2 notificação(ões) — ex.: "?" sem contexto
-- Fotos: 1 notificação(ões) — ex.: memória a revelar-se
-- Instagram: 1 notificação(ões) — ex.: reel recebido
-- Controlador autorizações: 1 notificação(ões) — ex.: 21 apps não utilizadas removidas
-- Aplicações recomendadas: 1 notificação(ões) — ex.: atualização Smart Tutor disponível
-- Tempo: 1 notificação(ões) — ex.: previsão amanhã: parcialmente nublado 29-31/24-26°C
-- Relógio: 1 notificação(ões) — ex.: desligar alarme previsto?
+- Gmail: 40 — newsletters repetidas Wi-Fi NOW/UWB; marketing; atualizações apps.
+- WhatsApp Business: 26 — actividade em grupos; promo; mídia; stickers.
+- YouTube: 15 — vídeos recomendados; festivais; tech; música.
+- Mensagens: 5 — Africell/UNITEL; conteúdo sensível ocultado.
+- Teams: 2 — «?» sem contexto.
+- Mapa da Corrida: 3 — lembretes de treino.
+- SimpleX: 3 — notícias tech/open-source; Linux.
+- Fotos: 1 — memória a revelar-se.
+- Instagram: 1 — reel recebido.
+- Controlador autorizações: 1 — 21 apps não utilizadas removidas.
+- Aplicações recomendadas: 1 — atualização Smart Tutor.
+- Tempo: 1 — previsão amanhã parcialmente nublada.
+- Relógio: 1 — desligar alarme previsto?
