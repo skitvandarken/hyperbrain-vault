@@ -1,27 +1,29 @@
-## [2026-11-26 14:42] Resumo do Ciclo
+## [2026-11-26 14:56] Resumo do Ciclo
+
 
 ### Crítico / Ação Necessária
-_(nada a assinalar)_
+- 13:14 Serviços do Google Play: armazenamento 100% cheio; cópia de segurança e Gmail em risco; libertar espaço ou adicionar armazenamento.
+- 14:30 Discord: políticas (termos, privacidade, termos pagos) em vigor a 2026-12-15; rever termos antes do prazo.
 
 ### Movimentos Financeiros & Pagamentos
-- 13:14 [Multicaixa] Pagamento de Serviço — Com valor de 2.000,00 (Kz) efetuado com sucesso
-- 13:14 [Multicaixa] Transferência entre cartões — Transferência de 2.000,00 (Kz) efetuada com sucesso
+- 13:14 Multicaixa: Pagamento de Serviço 2.000,00 Kz efetuado com sucesso; origem/destino não especificados no log.
+- 13:14 Multicaixa: Transferência entre cartões 2.000,00 Kz efetuada com sucesso; origem/destino não especificados; dados de cartão removidos.
+- Total nas 2 operações [FINANCEIRO]: 4.000,00 Kz movimentados; ambas com estado de sucesso.
 
 ### Operacional & Negócio
-- 13:14 [Gmail] 8 mensagens novas _(atualização)_
-- 13:14 [Mensagens] Africell — Caro cliente, recebeu o valor de 5GB(7D) da Africell. Obrigado. _(atualização)_
-- 13:18 [WhatsApp Business] #17 Imersão FullCycle (5 mensagens) — ~ Equipe Full Cycle: 📷 🚨 Vai mesmo ficar de fora da aula mais esperada da semana? ⏎ Hoje encerramos nossa série com uma aula prática sobre aplicações e agentes de IA. ⏎ Ainda dá t… _(atualização)_
-- 14:08 [WhatsApp Business] #17 Imersão FullCycle (6 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Ontem, encerramos mais uma etapa com Devs que decidiram evoluir e se destacar no mercado em 2027! 🚀 ⏎ Em 3 dias, mostramos o caminho p… _(atualização)_
-- 14:30 [Gmail] Discord — Atualizações nas políticas do Discord ⏎ Queremos avisar que estamos atualizando os termos de serviço, a política de privacidade e os termos de serviço pago. Essas atualizações refletem nossos negócios e serviç…
+- FullCycle (Equipe Full Cycle, WhatsApp Business #17 Imersão FullCycle): aula prática de apps/agentes de IA hoje; últimos dias Black November vitalícia MBA Eng. Software com IA, R$326/mês sem taxa de matrícula.
+- WhatsApp Business AceNatinBusiness-Comercial (Acenation Business, 508 mensagens): pergunta comercial "Pagas quanto?"; resposta humana pendente.
+- Mensagens/Africell: recebido pacote 5GB(7D).
+- Mensagens/UNITEL: bónus pós-pago de voz ou SMS terminou.
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 9 notificação(ões) — ex.: Roupas do soba 36 (576 mensagens) — Moço Da Roupa Hoja Yenda: 🎥 Enviou um vídeo (0:43)
-- YouTube: 7 notificação(ões) — ex.: Stu Bangas — Who would Body this ?? Grimy Boombap Beat - “The Visual” - Stu Bangas
-- Mensagens: 4 notificação(ões) — ex.: Jorge Africell — O numero +244952538114 tentou contactar-lhe 24.11.2026 ,18:39.
-- Gmail: 2 notificação(ões) — ex.: Wi-Fi NOW — Ultra-wideband News: Market set to nearly double by 2030, ABI says | Update: FCC's new rules | UW…
-- Fotos: 1 notificação(ões) — ex.: Eu 🗺️ — Memória a revelar-se
-- Instagram: 1 notificação(ões) — ex.: galocinzento — Enviou-te o seu reel
-- Mapa da Corrida: 1 notificação(ões) — ex.: Mapa da Corrida — É hora de Mapa da Corrida. Vamos começar!
-- Serviços do Google Play: 1 notificação(ões) — ex.: O armazenamento da conta está 100% cheio — Precisa de mais armazenamento para fazer uma cópia de segurança do…
-- SimpleX: 1 notificação(ões) — ex.: hackliberty.org — Tor Project has always been woke, heck half the devs are hippies at burning man. All friend…
-- Controlador autorizações: 1 notificação(ões) — ex.: 21 apps não utilizadas — As autorizações e os ficheiros temporários foram removidos e as notificações foram i…
+- Fotos: 1 notificação — ex.: memória a revelar-se.
+- Gmail: 3 notificações — ex.: newsletters Wi-Fi NOW (UWB); aviso de novas mensagens.
+- Instagram: 1 notificação — ex.: reel recebido.
+- Mapa da Corrida: 1 notificação — ex.: pedido para iniciar a corrida.
+- Mensagens: 3 notificações — ex.: chamada perdida; conteúdo sensível ocultado.
+- SimpleX: 1 notificação — ex.: mensagem no grupo hackliberty.org.
+- YouTube: 7 notificações — ex.: vídeos de canais técnicos e de notícias.
+- WhatsApp Business: 9 notificações — ex.: grupos com vídeos, links e conversa geral.
+- Controlador autorizações: 1 notificação — ex.: autorizações de 21 apps não utilizadas removidas.
+- Aplicações recomendadas: 1 notificação — ex.: atualização disponível para Smart Tutor.
