@@ -1,33 +1,28 @@
 ## [2026-11-26 16:12] Resumo do Ciclo
 
-
 ### Crítico / Ação Necessária
-- Armazenamento Google a 100%; risco de falha no backup e Gmail; libertar espaço ou aumentar plano.
-- Mensagens ocultou conteúdo sensível; rever manualmente para não perder pendências.
-- Controlador removeu autorizações de 21 apps não utilizadas e cortou notificações; rever apps afetadas.
-- Operador móvel sinaliza saldo inferior a 500 Kzs; recarregar se precisar de serviço.
-- Discord altera políticas; novas regras entram em vigor em 2026-12-15; rever termos antes da data.
-- Remetente via WhatsApp diz não ter recebido email; confirmar envio e responder.
+_(nada a assinalar)_
 
 ### Movimentos Financeiros & Pagamentos
-- Pagamento de serviço via Multicaixa: 2.000,00 Kz; origem/destino não especificado; efetuado com sucesso.
-- Transferência entre cartões via Multicaixa: 2.000,00 Kz; origem/destino não especificado; efetuada com sucesso.
+- 13:14 [Multicaixa] Pagamento de Serviço — Com valor de 2.000,00 (Kz) efetuado com sucesso
+- 13:14 [Multicaixa] Transferência entre cartões — Transferência de 2.000,00 (Kz) efetuada com sucesso
 
 ### Operacional & Negócio
-- Imersão FullCycle #17: aula prática sobre aplicações e agentes de IA hoje; chamada para participar; remetente Equipe Full Cycle.
-- Imersão FullCycle #17: menção ao utilizador; promoção MBA Eng. Software com IA; últimos dias da Black November.
-- Pergunta pendente em WhatsApp comercial: "Pagas quanto?"; requer resposta com valor.
-- Proposta comercial em WhatsApp: aluguer de equipamento de vídeo; valores não marcados como [FINANCEIRO].
-- Catering em WhatsApp: mensagens sobre almoço, pedido de kilapis, "GL conta" e sticker; sem decisão de pagamento registada.
-- Marketing: saudação "Bom dia" recebida; sem pedido concreto.
+- 13:14 [Gmail] 8 mensagens novas _(atualização)_
+- 13:14 [Mensagens] Africell — Caro cliente, recebeu o valor de 5GB(7D) da Africell. Obrigado. _(atualização)_
+- 13:18 [WhatsApp Business] #17 Imersão FullCycle (5 mensagens) — ~ Equipe Full Cycle: 📷 🚨 Vai mesmo ficar de fora da aula mais esperada da semana? ⏎ Hoje encerramos nossa série com uma aula prática sobre aplicações e agentes de IA. ⏎ Ainda dá t… _(atualização)_
+- 14:08 [WhatsApp Business] #17 Imersão FullCycle (6 mensagens) — 📣 Mencionou o seu nome: ~ Equipe Full Cycle: Ontem, encerramos mais uma etapa com Devs que decidiram evoluir e se destacar no mercado em 2027! 🚀 ⏎ Em 3 dias, mostramos o caminho p… _(atualização)_
+- 14:30 [Gmail] Discord — Atualizações nas políticas do Discord ⏎ Queremos avisar que estamos atualizando os termos de serviço, a política de privacidade e os termos de serviço pago. Essas atualizações refletem nossos negócios e serviç…
 
 ### Ruído / Informativo (Agrupado)
-- Fotos: 1 notificação; ex.: memória a revelar-se.
-- Gmail: 4 notificações; ex.: newsletters e promoções.
-- Instagram: 1 notificação; ex.: reel recebido.
-- Mapa da Corrida: 1 notificação; ex.: início de corrida.
-- Mensagens: 3 notificações; ex.: pacote de dados, contacto perdido e bónus encerrado.
-- SimpleX: 1 notificação; ex.: conteúdo externo.
-- YouTube: 7 notificações; ex.: recomendações de vídeo.
-- WhatsApp Business: 5 notificações; ex.: grupos não comerciais e anúncios.
-- Aplicações recomendadas: 1 notificação; ex.: atualização de app disponível.
+- WhatsApp Business: 14 notificação(ões) — ex.: Roupas do soba 36 (576 mensagens) — Moço Da Roupa Hoja Yenda: 🎥 Enviou um vídeo (0:43)
+- YouTube: 8 notificação(ões) — ex.: Stu Bangas — Who would Body this ?? Grimy Boombap Beat - “The Visual” - Stu Bangas
+- Mensagens: 5 notificação(ões) — ex.: Jorge Africell — O numero +244952538114 tentou contactar-lhe 24.11.2026 ,18:39.
+- Gmail: 3 notificação(ões) — ex.: Wi-Fi NOW — Ultra-wideband News: Market set to nearly double by 2030, ABI says | Update: FCC's new rules | UW…
+- Fotos: 1 notificação(ões) — ex.: Eu 🗺️ — Memória a revelar-se
+- Instagram: 1 notificação(ões) — ex.: galocinzento — Enviou-te o seu reel
+- Mapa da Corrida: 1 notificação(ões) — ex.: Mapa da Corrida — É hora de Mapa da Corrida. Vamos começar!
+- Serviços do Google Play: 1 notificação(ões) — ex.: O armazenamento da conta está 100% cheio — Precisa de mais armazenamento para fazer uma cópia de segurança do…
+- SimpleX: 1 notificação(ões) — ex.: hackliberty.org — Tor Project has always been woke, heck half the devs are hippies at burning man. All friend…
+- Controlador autorizações: 1 notificação(ões) — ex.: 21 apps não utilizadas — As autorizações e os ficheiros temporários foram removidos e as notificações foram i…
+- Aplicações recomendadas: 1 notificação(ões) — ex.: 1 atualização de app disponível — Smart Tutor
