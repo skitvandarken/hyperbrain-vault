@@ -1,14 +1,15 @@
-## [2026-11-28 00:34] Resumo do Ciclo
+## [2026-11-28 00:40] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
-- Suporte AngolanVPN pendente: usuário sem saldo pergunta como utilizar serviço; requer orientação humana.
-- Suporte AngolanVPN pendente: resposta a instrução de nó de saída foi "não entendi"; requer clarificação humana.
+- Suporte AngolanVPN (Gmail): cliente indica falta de saldo e pergunta como utilizar o serviço; requer orientação humana.
+- Suporte AngolanVPN (Gmail): resposta "não entendi" à instrução de escolher nó de saída; requer clarificação humana.
 ### Movimentos Financeiros & Pagamentos
 _(nada a assinalar)_
 ### Operacional & Negócio
-- Pedido de proposta de interligação privada (fornecedor): ponto A/B em Angola; segmento comércio/retalho; preparar proposta.
-- Full Cycle: oferta Black November Vitalícia a terminar; formações MBA em IA e Arquitetura Full Cycle; menção ao utilizador.
+- Proposta: solicitação de proposta de interligação privada recebida por Gmail; Ponto A↔Ponto B em Angola; segmento Comércio & Retalho; preparar proposta.
+- Full Cycle (~Equipe Full Cycle): Black November Vitalícia em reta final; MBA em IA + Arquitetura Full Cycle; parcelamento até 18x sem taxa de matrícula; menção ao utilizador.
+- MPLA (WhatsApp): transformação digital, organização, transparência e comunicação interna; AGENDADA P/ 20h.
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 10 notificações — ex.: partilhas musicais, conversas em grupos e catering.
-- Gmail: 9 notificações — ex.: newsletters Wi-Fi/UWB, webinares Milesight e formação Microsoft.
-- YouTube: 3 notificações — ex.: vídeo Ubuntu Summit 26.10.
+- WhatsApp Business: 8 notificações — ex.: conversas em grupos e partilhas musicais.
+- Gmail: 10 notificações — ex.: newsletters Wi-Fi/UWB e webinares Milesight/Microsoft.
+- YouTube: 3 notificações — ex.: Ubuntu Summit 26.10 e The WTF Zone.
