@@ -1,39 +1,63 @@
-## [2026-11-28 16:53] Resumo do Ciclo
-
+## [2026-11-28 16:56] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
-- AngolanVPN/Spaceall: resposta “Não entendi” sobre nó de saída; pendente esclarecimento humano.
-- AngolanVPN: dúvida sobre saldo e uso; mensagem truncada; pendente resposta humana.
-- Chamada telefónica não atendida às 13:32; sem resolução no log.
-- UNITEL: saldo inferior a 100 Kzs; requer verificação/recarga humana.
-- Catering: conta pendente; resposta indica envio, sem confirmação final de pagamento.
-- Full Cycle Black November Vitalícia: prazo até segunda-feira 23h59; decidir inscrição.
-- Africell Afrinet 5GB (7d): renovação automática em 2026-12-05 15:58; decidir desativação.
-- Tempo em Quilamba Quiaxi: UV extremo; limitar exposição solar.
+- 00:25 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO (3 mensagens) — ~ Laura Macedo: Quem pode proporcionar um show para a sra? _(atualização)_
+- 00:29 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO (3 mensagens) — ~ Laura Macedo: Quem pode proporcionar um show para a sra? _(atualização)_
+- 01:58 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO (3 mensagens) — ~ Laura Macedo: Quem pode proporcionar um show para a sra? _(atualização)_
+- 13:32 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO (5 mensagens) — ~ Grupo Fecom: Link do vídeo YouTube _(atualização)_
+- 13:58 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO (5 mensagens) — ~ Grupo Fecom: Link do vídeo YouTube _(atualização)_
+- 16:11 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO (6 mensagens) — J-MC aka Congo Records Congo Records: 🎥 Estaremos com #Inês_Santana_de_Sousa ⏎ Neste Domingo a partir das 16H ⏰ ⏎ Siga-nos em todas as redes sociais para acompanhar… _(atualização)_
+- 16:13 [WhatsApp Business] OS AMIGOS DO PROPRIO AMOROSO CRITICO (6 mensagens) — J-MC aka Congo Records Congo Records: 🎥 Estaremos com #Inês_Santana_de_Sousa ⏎ Neste Domingo a partir das 16H ⏰ ⏎ Siga-nos em todas as redes sociais para acompanhar… _(atualização)_
 
 ### Movimentos Financeiros & Pagamentos
-- Africell Afrinet 5GB (7d): 2.000 Kzs do saldo; destino Africell; renovação automática em 2026-12-05 15:58; agendada, não concluída; linhas repetidas consolidadas.
-- Multicaixa Pagamento de Serviço: 2.000,00 Kzs; origem Multicaixa; destino não especificado; concluído; atualização repetida não é novo pagamento.
+- 15:00 [Mensagens] africell — Subscreveste ao Afrinet 5GB (7d) será renovado automaticamente em 2026-12-05 às 15:58. 2000kz será deduzido do teu saldo. Marca *123*2*2# para desativar a renovação automática. _(atualização)_
+- 15:00 [Multicaixa] Pagamento de Serviço — Com valor de 2.000,00 (Kz) efetuado com sucesso
+- 15:14 [Mensagens] africell — Subscreveste ao Afrinet 5GB (7d) será renovado automaticamente em 2026-12-05 às 15:58. 2000kz será deduzido do teu saldo. Marca *123*2*2# para desativar a renovação automática. _(atualização)_
+- 15:14 [Multicaixa] Pagamento de Serviço — Com valor de 2.000,00 (Kz) efetuado com sucesso _(atualização)_
 
 ### Operacional & Negócio
-- Spaceall/AngolanVPN Enterprise: propostas repetidas de interligação privada/L3 Angola↔Angola; Ponto A↔Ponto B; sem valor monetário.
-- PetroFest 2026: agenda para 2026-11-28 09:00 em Luanda; inovação, tecnologia e networking; presença não confirmada.
-- DevFest 2026: GDG Luanda partilha evento; participação não confirmada.
-- Congo Records: podcast VIVA A ARTE, 3ª temporada, domingo 2026-11-29 a partir das 16h.
-- Full Cycle Black November Vitalícia: MBA Engenharia de Software com IA e MBA Arquitetura Full Cycle; condições até segunda 23h59; parcela mencionada a partir de R$326/mês.
-- SÓ BUSINESS: anúncio de imóvel T3 à venda por 14 milhões Kzs negociável; não é movimento próprio.
-- Africell: pacote Afrinet 5GB (7d) com avisos de 50%/80% e 5GB recebido; repetições consolidadas.
+- 00:29 [Gmail] Leonardo Nunes Zeferino — Re: Suporte AngolanVPN ⏎ Não entendi. ⏎ A quinta, 26/11/2026, 04:59, SPACEALL TECHNOLOGIES <contact@spaceall.net> escreveu: ⏎ > ⏎ > Escolha um nó de saída e já estará funcionando. ⏎ > ⏎ > ⏎ > ⏎… _(atualização)_
+- 00:29 [Gmail] Moisés LC Moreno — [Solici…] LC Moreno - moreno ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: moreno ⏎ Empresa: LC Moreno ⏎ E-mail Corporativo: moiseslcmoreno11@gmail.com ⏎ Telefone… _(atualização)_
+- 00:29 [Gmail] WhatsApp for Business — Get ready for your busiest season and reclaim ROI ⏎ A new enterprise report, peak-season tips and what success looks like on WhatsApp ⏎ A new enterprise report, peak-season tips and what success… _(atualização)_
+- 00:29 [Gmail] Felícia Armindo — Suporte AngolanVPN ⏎ Não tenho saldo como posso utilizar lo _(atualização)_
+- 00:29 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 01:58 [Gmail] Leonardo Nunes Zeferino — Re: Suporte AngolanVPN ⏎ Não entendi. ⏎ A quinta, 26/11/2026, 04:59, SPACEALL TECHNOLOGIES <contact@spaceall.net> escreveu: ⏎ > ⏎ > Escolha um nó de saída e já estará funcionando. ⏎ > ⏎ > ⏎ > ⏎… _(atualização)_
+- 01:58 [Gmail] Moisés LC Moreno — [Solici…] LC Moreno - moreno ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: moreno ⏎ Empresa: LC Moreno ⏎ E-mail Corporativo: moiseslcmoreno11@gmail.com ⏎ Telefone… _(atualização)_
+- 01:58 [Gmail] WhatsApp for Business — Get ready for your busiest season and reclaim ROI ⏎ A new enterprise report, peak-season tips and what success looks like on WhatsApp ⏎ A new enterprise report, peak-season tips and what success… _(atualização)_
+- 01:58 [Gmail] Felícia Armindo — Suporte AngolanVPN ⏎ Não tenho saldo como posso utilizar lo _(atualização)_
+- 01:58 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 13:32 [Thunderbird] Memory Lolozhi — [Proposta L3] Sonangol - memory loloji ⏎ PROPOSTA DE INTERLIGAÇÃO PRIVADA L3 - SPACEALL Nome do Responsável: memory loloji Empresa: Sonangol E-mail Corporativo: memorylolozhi159@gmail.com Telefone / Wha… _(atualização)_
+- 13:32 [Thunderbird] Leonardo Nunes Zeferino — Re: Suporte AngolanVPN ⏎ Não entendi. _(atualização)_
+- 13:32 [Thunderbird] Memory Lolozhi — [Proposta L3] comércio indústrial - Memory loloji comercial lda ⏎ PROPOSTA DE INTERLIGAÇÃO PRIVADA L3 - SPACEALL Nome do Responsável: Memory loloji comercial lda Empresa: comércio indústrial E-mail Corp… _(atualização)_
+- 14:06 [WhatsApp Business] Underground Lusófono (250 mensagens) — Mencionou todas as pessoas: Marcial Hydrolicz: 📷 🎯✨ Confira: Artes impactantes!! ⏎ Na era da limitação criativa e da igualdade visual, construímos narrativas e criamos impactos p… _(atualização)_
+- 14:58 [WhatsApp Business] Underground Lusófono (250 mensagens) — Mencionou todas as pessoas: Marcial Hydrolicz: 📷 🎯✨ Confira: Artes impactantes!! ⏎ Na era da limitação criativa e da igualdade visual, construímos narrativas e criamos impactos p… _(atualização)_
+- 15:00 [Mensagens] Africell — Caro cliente, recebeu o valor de 5GB(7D) da Africell. Obrigado. _(atualização)_
+- 15:02 [WhatsApp Business] Underground Lusófono (250 mensagens) — Mencionou todas as pessoas: Marcial Hydrolicz: 📷 🎯✨ Confira: Artes impactantes!! ⏎ Na era da limitação criativa e da igualdade visual, construímos narrativas e criamos impactos p… _(atualização)_
+- 15:14 [Mensagens] Africell — Caro cliente, recebeu o valor de 5GB(7D) da Africell. Obrigado. _(atualização)_
+- 15:14 [WhatsApp Business] Underground Lusófono (250 mensagens) — Mencionou todas as pessoas: Marcial Hydrolicz: 📷 🎯✨ Confira: Artes impactantes!! ⏎ Na era da limitação criativa e da igualdade visual, construímos narrativas e criamos impactos p… _(atualização)_
+- 15:18 [WhatsApp Business] Underground Lusófono (250 mensagens) — Mencionou todas as pessoas: Marcial Hydrolicz: 📷 🎯✨ Confira: Artes impactantes!! ⏎ Na era da limitação criativa e da igualdade visual, construímos narrativas e criamos impactos p… _(atualização)_
+- 15:28 [Gmail] WhatsApp for Business — Get ready for your busiest season and reclaim ROI ⏎ A new enterprise report, peak-season tips and what success looks like on WhatsApp ⏎ A new enterprise report, peak-season tips and what success… _(atualização)_
+- 15:28 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 16:11 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 16:11 [Gmail] WhatsApp for Business — Get ready for your busiest season and reclaim ROI ⏎ A new enterprise report, peak-season tips and what success looks like on WhatsApp ⏎ A new enterprise report, peak-season tips and what success… _(atualização)_
+- 16:11 [WhatsApp Business] Underground Lusófono (251 mensagens) — Mencionou todas as pessoas: Marcial Hydrolicz: 📷 🎯✨ Confira: Artes impactantes!! ⏎ Na era da limitação criativa e da igualdade visual, construímos narrativas e criamos impactos p… _(atualização)_
+- 16:13 [WhatsApp Business] Underground Lusófono (252 mensagens) — Mencionou todas as pessoas: Marcial Hydrolicz: 📷 🎯✨ Confira: Artes impactantes!! ⏎ Na era da limitação criativa e da igualdade visual, construímos narrativas e criamos impactos p… _(atualização)_
+- 16:39 [Gmail] Moisés LC Moreno — [Solici…] LC Moreno - moreno ⏎ SOLICITAÇÃO DE PROPOSTA DE INTERLIGAÇÃO PRIVADA - SPACEALL ⏎ Nome do Responsável: moreno ⏎ Empresa: LC Moreno ⏎ E-mail Corporativo: moiseslcmoreno11@gmail.com ⏎ Telefone… _(atualização)_
+- 16:39 [Gmail] Skilling Hub Events — Discover what's new in the Microsoft Partner Skilling Hub ⏎ Build what’s next. ⏎ Become a Frontier Firm with Microsoft Partner Skilling. ⏎ Discover what's new in the Microsoft Partner Skilling Hub… _(atualização)_
+- 16:39 [Gmail] Leonardo Nunes Zeferino — Re: Suporte AngolanVPN ⏎ Não entendi. ⏎ A quinta, 26/11/2026, 04:59, SPACEALL TECHNOLOGIES <contact@spaceall.net> escreveu: ⏎ > ⏎ > Escolha um nó de saída e já estará funcionando. ⏎ > ⏎ > ⏎ > ⏎… _(atualização)_
+- 16:39 [Gmail] WhatsApp for Business — Get ready for your busiest season and reclaim ROI ⏎ A new enterprise report, peak-season tips and what success looks like on WhatsApp ⏎ A new enterprise report, peak-season tips and what success… _(atualização)_
+- 16:39 [Gmail] Felícia Armindo — Suporte AngolanVPN ⏎ Não tenho saldo como posso utilizar lo _(atualização)_
 
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business (resto agrupado): grupos repetidos, links, fotos, stickers e promoções; exemplo “📷 Enviou uma foto”.
-- Gmail (resto agrupado): newsletters repetidas Wi-Fi NOW, Milesight e Microsoft; exemplo “Wi-Fi 7 tracker update”.
-- YouTube (resto agrupado): vídeos de canais; exemplo “Linux Myths Busted”.
-- Mensagens (resto agrupado): avisos de operadora repetidos; exemplo “saldo inferior”.
-- Messenger (resto agrupado): respostas a histórias e mensagens diretas; exemplo “💪👊”.
-- Thunderbird (resto agrupado): newsletter Wi-Fi NOW e duplicatas; exemplo “Wi-Fi 7 tracker update”.
-- Fotos (resto agrupado): avisos de fotos; exemplo “Belas fotos de selfie”.
-- SimpleX (1 no resto): exemplo “Test”.
-- Instagram (1 no resto): curtida em story.
-- Agenda (1 no resto): PetroFest já citado não repetido; exemplo “PetroFest 2026”.
-- Multicaixa (sem ruído adicional além dos movimentos citados).
-- Telefone (sem ruído adicional além do item crítico).
+- WhatsApp Business: 68 notificação(ões) — ex.: Hip Hop Interno Bruto (4 mensagens) — ~ mudjindjah: 🔗 Djizzoh_-_Esse Gajo Não Presta (Oficial Video Clip… (y…
+- Gmail: 43 notificação(ões) — ex.: WiFi NOW — Knowledge Brief: AI Ops for enterprise tracker | Everything you wanted to know about BLE - and wer…
+- YouTube: 12 notificação(ões) — ex.: Canonical Ubuntu — Bringing Delta to the web with GPUI | Ubuntu Summit 26.10
+- Messenger: 8 notificação(ões) — ex.: La Ganzza Nostra — La Ganzza respondeu à tua história: Podes até treinar bué garrafa também existo wy 😂 vamo…
+- Mensagens: 4 notificação(ões) — ex.: UNITEL — UNITEL: O saldo do seu cartao é inferior a 100 Kzs.
+- Fotos: 2 notificação(ões) — ex.: Tudo pronto?
+- Agenda: 1 notificação(ões) — ex.: PetroFest 2026: Inovação, Tecnologia e Networking — 09:00 ⏎ Luanda, Angola
+- Instagram: 1 notificação(ões) — ex.: pedrothiagogn — Curtiu seu story
+- Telefone: 1 notificação(ões) — ex.: Chamada não atendida — Mena Africell
+- Tempo: 1 notificação(ões) — ex.: Quilamba Quiaxi | Índice de UV — UV extremo. Limite a exposição solar sempre
+- Thunderbird: 1 notificação(ões) — ex.: Wi-Fi NOW — HAPPY THANKSGIVING, AMERICA! Wi-Fi 7 tracker update | Editorial: The next wireless frontier | Wee…
+- SimpleX: 1 notificação(ões) — ex.: hackliberty.org — Test
