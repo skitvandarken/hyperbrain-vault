@@ -1,13 +1,17 @@
-## [2026-11-28 02:22] Resumo do Ciclo
+## [2026-11-28 02:27] Resumo do Ciclo
+
 
 ### Crítico / Ação Necessária
-- AngolanVPN: usuário bloqueado por falta de saldo; precisa de suporte humano e orientação de utilização.
-- AngolanVPN: usuário diz não ter entendido instrução de escolher nó de saída; follow-up humano pendente.
+- Suporte AngolanVPN: usuário bloqueado por falta de saldo e não sabe como utilizar o serviço; precisa de resposta humana e orientação.
+- Suporte AngolanVPN: usuário respondeu "Não entendi" à instrução de escolher nó de saída; follow-up humano pendente.
+
 ### Movimentos Financeiros & Pagamentos
 _(nada a assinalar)_
+
 ### Operacional & Negócio
-- Proposta de interligação privada via AngolanVPN Enterprise: Ponto A↔Ponto B em Angola, comércio/retalho; preparar resposta.
+- Proposta de interligação privada via AngolanVPN Enterprise App: Ponto A↔Ponto B em Angola, setor comércio/retalho; preparar resposta.
+
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 21 notificação(ões) — ex.: grupos sociais e promoções Black November Full Cycle.
-- Gmail: 22 notificação(ões) restantes — ex.: newsletters Wi-Fi NOW/WiFi NOW.
-- YouTube: 4 notificação(ões) — ex.: vídeos recomendados.
+- WhatsApp Business: 21 notificações não citadas — grupos sociais, partilhas, promoções Black November Full Cycle; ex.: partilha de vídeo.
+- Gmail: 22 notificações não citadas — newsletters Wi-Fi NOW/WiFi NOW repetidas, Milesight, Skilling Hub, marketing; ex.: "Ultra-wideband News…".
+- YouTube: 4 notificações — vídeos recomendados; ex.: "Ubuntu Summit 26.10".
