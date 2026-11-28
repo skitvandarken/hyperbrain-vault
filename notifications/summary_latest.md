@@ -1,16 +1,14 @@
-## [2026-11-28 00:28] Resumo do Ciclo
-
+## [2026-11-28 00:34] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
-_(nada a assinalar)_
-
+- Suporte AngolanVPN pendente: usuário sem saldo pergunta como utilizar serviço; requer orientação humana.
+- Suporte AngolanVPN pendente: resposta a instrução de nó de saída foi "não entendi"; requer clarificação humana.
 ### Movimentos Financeiros & Pagamentos
 _(nada a assinalar)_
-
 ### Operacional & Negócio
-- Pedido pendente em grupo para identificar quem pode organizar um show; sem proposta ou valor definido.
-- FullCycle: oferta Black November Vitalícia a terminar; formações em IA e Arquitetura Full Cycle.
-
+- Pedido de proposta de interligação privada (fornecedor): ponto A/B em Angola; segmento comércio/retalho; preparar proposta.
+- Full Cycle: oferta Black November Vitalícia a terminar; formações MBA em IA e Arquitetura Full Cycle; menção ao utilizador.
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 4 notificação(ões) — ex.: partilha de vídeo musical e conversa em grupo.
-- YouTube: 2 notificação(ões) — ex.: vídeo sobre Ubuntu Summit 26.10.
+- WhatsApp Business: 10 notificações — ex.: partilhas musicais, conversas em grupos e catering.
+- Gmail: 9 notificações — ex.: newsletters Wi-Fi/UWB, webinares Milesight e formação Microsoft.
+- YouTube: 3 notificações — ex.: vídeo Ubuntu Summit 26.10.
