@@ -1,15 +1,15 @@
-## [2026-11-28 00:40] Resumo do Ciclo
+## [2026-11-28 00:46] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
-- Suporte AngolanVPN (Gmail): cliente indica falta de saldo e pergunta como utilizar o serviço; requer orientação humana.
-- Suporte AngolanVPN (Gmail): resposta "não entendi" à instrução de escolher nó de saída; requer clarificação humana.
+- Suporte AngolanVPN (Gmail): cliente sem saldo pergunta como utilizar o serviço; precisa resposta humana.
+- Suporte AngolanVPN (Gmail): resposta "não entendi" à instrução de escolher nó de saída; clarificar com cliente.
 ### Movimentos Financeiros & Pagamentos
 _(nada a assinalar)_
 ### Operacional & Negócio
-- Proposta: solicitação de proposta de interligação privada recebida por Gmail; Ponto A↔Ponto B em Angola; segmento Comércio & Retalho; preparar proposta.
-- Full Cycle (~Equipe Full Cycle): Black November Vitalícia em reta final; MBA em IA + Arquitetura Full Cycle; parcelamento até 18x sem taxa de matrícula; menção ao utilizador.
-- MPLA (WhatsApp): transformação digital, organização, transparência e comunicação interna; AGENDADA P/ 20h.
+- Proposta: interligação privada Ponto A↔Ponto B em Angola (Comércio & Retalho) solicitada via AngolanVPN Enterprise App; preparar proposta.
+- Full Cycle (~Equipe Full Cycle): Black November Vitalícia em reta final; MBA em IA + Arquitetura FC; até 18x sem taxa de matrícula; menção nos grupos #17/#26.
+- MPLA (WhatsApp): transformação digital, organização, transparência e comunicação interna; sessão AGENDADA P/ 20h.
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 8 notificações — ex.: conversas em grupos e partilhas musicais.
-- Gmail: 10 notificações — ex.: newsletters Wi-Fi/UWB e webinares Milesight/Microsoft.
-- YouTube: 3 notificações — ex.: Ubuntu Summit 26.10 e The WTF Zone.
+- WhatsApp Business: 8 notificações de ruído; ex.: partilhas de vídeo/música em grupos.
+- Gmail: 11 notificações de ruído; ex.: newsletters Wi-Fi NOW/UWB e webinares Milesight/Microsoft.
+- YouTube: 3 notificações de ruído; ex.: Ubuntu Summit 26.10.
