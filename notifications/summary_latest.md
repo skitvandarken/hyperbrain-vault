@@ -1,19 +1,25 @@
-## [2026-11-28 13:36] Resumo do Ciclo
-
+## [2026-11-28 13:41] Resumo do Ciclo
 
 ### Crítico / Ação Necessária
-- AngolanVPN: suporte pendente por saldo insuficiente; utilizador pergunta como continuar; resposta humana necessária.
-- AngolanVPN/SPACEALL: suporte pendente porque nó de saída não ficou claro; explicar escolha e confirmar funcionamento.
-- Full Cycle: Black November Vitalícia em reta final; decidir inscrição antes do encerramento (sem data explícita) para MBA IA/Arquitetura FC.
-
+- Suporte AngolanVPN pendente: saldo insuficiente; pergunta como continuar sem saldo; resposta humana necessária (Gmail, repetido).
+- Suporte AngolanVPN pendente: instrução SPACEALL "escolha um nó de saída" não entendida; esclarecer e confirmar funcionamento (Gmail+Thunderbird).
+- FullCycle Black November Vitalícia: condições até segunda-feira 23h59; decidir inscrição MBA Eng. Software com IA ou MBA Arquitetura Full Cycle.
 ### Movimentos Financeiros & Pagamentos
 _(nada a assinalar)_
-
 ### Operacional & Negócio
-- Proposta SPACEALL: interligação privada Angola↔Angola, comércio/retalho, via AngolanVPN Enterprise App; aguarda resposta interna.
-- MPLA: comunicado agendado para 20h sobre transformação digital, transparência e comunicação interna; fonte pública, sem dados internos.
-
+- Pedido formal SPACEALL: interligação privada Angola↔Angola, comércio/retalho, via AngolanVPN Enterprise App; aguarda resposta (Gmail).
+- Propostas SPACEALL L3 via AngolanVPN Enterprise App, Angola↔Angola: petróleo/gás e comércio/indústria; aguardam resposta (Thunderbird).
+- PetroFest 2026: 09:00 Luanda; inovação, tecnologia e networking (Agenda).
+- DevFest 2026 GDG Luanda; inscrição via app Edukangola (WhatsApp Business).
+- MPLA: comunicado agendado 20h sobre transformação digital, transparência e comunicação interna; fonte pública (WhatsApp Business).
 ### Ruído / Informativo (Agrupado)
-- WhatsApp Business: 12 notificações restantes — ex.: grupos internos, música, catering e pedido sobre show.
-- Gmail: 22 notificações restantes — ex.: newsletters Wi-Fi NOW sobre UWB, Wi-Fi 7, BLE e AI Ops; webinars e skilling.
-- YouTube: 4 notificações — ex.: Canonical Ubuntu sobre GPUI/Ubuntu Summit.
+- WhatsApp Business (16): grupos internos, música, catering, poesia, fotos; ex.: conversas em grupo sem ação.
+- Gmail (23): newsletters Wi-Fi NOW repetidas (UWB/Wi-Fi 7/BLE/AI Ops), webinars e marketing; ex.: Wi-Fi NOW.
+- Thunderbird (1): newsletter Wi-Fi NOW sobre Wi-Fi 7/UWB; sem ação.
+- Fotos (1): pergunta informal "Tudo pronto?"; sem contexto operacional.
+- Instagram (1): curtida no story; sem ação.
+- Mensagens (2): aviso UNITEL saldo de cartão inferior a 100 Kzs; Africell 50% do pacote consumido.
+- Telefone (1): chamada não atendida; sem voicemail indicada.
+- Tempo (1): Quilamba Quiaxi, índice UV extremo; limitar exposição solar.
+- Messenger (1): resposta informal em história; sem ação.
+- YouTube (9): vídeos/notícias tech e entretenimento; ex.: Ubuntu Summit, Netflix/Temporal.
